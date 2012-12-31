@@ -1,0 +1,13 @@
+SURVIVAL:
+  armorContents: '{"3":{"d":78,"e":{"THORNS":3,"PROTECTION_FALL":4,"PROTECTION_ENVIRONMENTAL":4,"WATER_WORKER":1,"OXYGEN":3},"t":310},"2":{"d":78,"e":{"THORNS":3,"PROTECTION_FALL":4,"PROTECTION_ENVIRONMENTAL":4,"WATER_WORKER":1,"OXYGEN":3},"t":311},"1":{"d":78,"e":{"THORNS":3,"PROTECTION_FALL":4,"PROTECTION_ENVIRONMENTAL":4,"WATER_WORKER":1,"OXYGEN":3},"t":312},"0":{"d":193,"e":{"THORNS":3,"PROTECTION_FALL":4,"PROTECTION_ENVIRONMENTAL":4,"WATER_WORKER":1,"OXYGEN":3},"t":313}}'
+  enderChestContents: '{}'
+  potions: '[{"pd":4971,"pa":0,"pt":14}]'
+  inventoryContents: '{"19":{"d":6,"e":{"DIG_SPEED":5,"LOOT_BONUS_BLOCKS":3,"DURABILITY":3},"t":278},"35":{"#":10,"t":401},"17":{"e":{"DIG_SPEED":5,"LOOT_BONUS_BLOCKS":3,"DURABILITY":3},"t":278},"15":{"#":16,"t":368},"33":{"#":10,"t":401},"16":{"#":14,"t":368},"34":{"#":10,"t":401},"13":{"#":49,"t":264},"14":{"#":50,"t":265},"11":{"#":37,"t":262},"12":{"#":64,"t":263},"21":{"d":18,"t":358},"20":{"t":42},"22":{"d":2,"e":{"DIG_SPEED":5,"LOOT_BONUS_BLOCKS":3,"DURABILITY":3},"t":279},"24":{"#":63,"t":364},"25":{"d":3,"t":359},"26":{"t":401},"29":{"d":117,"e":{"ARROW_DAMAGE":5,"DAMAGE_ALL":5,"FIRE_ASPECT":2,"KNOCKBACK":2,"LOOT_BONUS_MOBS":3},"t":276},"3":{"#":4,"t":3},"2":{"d":32766,"t":373},"7":{"#":64,"d":50,"t":383},"30":{"#":64,"t":50},"32":{"#":10,"t":401},"4":{"#":6,"t":4},"31":{"#":10,"t":401},"8":{"d":32702,"t":373}}'
+  bedSpawnLocation: '{"ya":0.0,"wo":"world","pi":0.0,"z":-739.0,"y":82.0,"x":1878.0}'
+  stats: '{"ex":"0.062213965","ra":"300","hp":"20","txp":"1217","fl":"20","el":"22","ma":"300","sa":"3.8000002","xp":"0.6694017","ft":"-20","fd":"0.0"}'
+CREATIVE:
+  inventoryContents: 0:t:297;#:57/1:t:261;d:26/2:t:267;d:90/3:t:50;#:31/4:t:257;d:80/5:t:292;d:21/6:t:256;d:94/7:t:258;d:42/9:t:5;#:64/10:t:263;#:41/12:t:15;#:8/13:t:4;#:14/14:t:24;#:3/15:t:12;#:5/16:t:259;d:38/17:t:375;#:3/18:t:5;#:48/19:t:265;#:46/20:t:287;#:5/21:t:296/25:t:327/26:t:262;#:17/27:t:280;#:64/28:t:280;#:43/29:t:65;#:32/30:t:295;#:53/31:t:65;#:29/32:t:42/33:t:4;#:64/34:t:368;#:9/35:t:368;#:16
+  potions: ''
+  armorContents: 0:t:309;d:46/1:t:308;d:46/2:t:307;d:46/3:t:306;d:46
+  bedSpawnLocation: wo:world;x:1052.0;y:88.0;z:-131.0;pi:0.0;ya:0.0
+  stats: ma:300;hp:20;xp:0.80769217;fl:20;fd:0.0;sa:4.8;ra:300;el:6;ft:-20;txp:4781;ex:3.994725

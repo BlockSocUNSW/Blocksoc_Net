@@ -1,0 +1,11 @@
+banOnlyOnPVP: false
+deathSeconds: 3.15569E7
+reaperCheckSeconds: 5
+finalFarewellSeconds: 60
+doThunderAndLightningOnDeath: true
+thunderLengthSeconds: 1
+useResurrectionDay: false
+resurrectionDayStart: 12/31/69 4:00 PM
+resurrectionDayEnd: 12/31/69 4:00 PM
+finalFarewell: false
+BannedMessage: You're dead until

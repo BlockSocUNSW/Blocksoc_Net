@@ -1,0 +1,6 @@
+SURVIVAL:
+  inventoryContents: 0:t:352;#:2/1:t:267;d:10/2:t:297;#:25/3:t:375/8:t:274;d:2
+  potions: ''
+  bedSpawnLocation: wo:world;x:956.0;y:57.0;z:-167.0;pi:0.0;ya:0.0
+  armorContents: ''
+  stats: txp:16;sa:0.0;ft:-20;ma:300;ra:300;xp:0.9000001;el:1;fl:2;fd:0.0;ex:1.3909234;hp:18

@@ -1,0 +1,19 @@
+SURVIVAL:
+  inventoryContents: '{"3":{"t":69},"2":{"d":3,"t":98},"1":{"#":10,"t":344},"0":{"#":16,"t":344},"6":{"#":11,"t":145},"5":{"#":26,"t":384},"4":{"e":{"DAMAGE_UNDEAD":5},"t":276}}'
+  enderChestContents: '{}'
+  bedSpawnLocation: '{"ya":0.0,"wo":"creative","pi":0.0,"z":36.0,"y":115.0,"x":-245.0}'
+  potions: '[{"pd":17,"pa":0,"pt":8},{"pd":17,"pa":0,"pt":10}]'
+  armorContents: '{"3":{"t":310},"2":{"t":311},"1":{"t":312},"0":{"t":313}}'
+  stats: '{"ex":"0.0","ra":"300","hp":"20","txp":"50","fl":"20","el":"2","ma":"300","sa":"5.0","xp":"0.9411763","ft":"-20","fd":"0.0"}'
+CREATIVE:
+  armorContents: ''
+  inventoryContents: 0:t:344;#:16/1:t:344;#:10/4:t:69
+  potions: ''
+  bedSpawnLocation: wo:creative;x:-245.0;y:115.0;z:36.0;pi:0.0;ya:0.0
+  stats: ra:300;ma:300;el:0;ft:-20;fl:20;sa:5.0;txp:0;hp:20;fd:0.0;ex:0.0;xp:0.0
+ADVENTURE:
+  armorContents: ''
+  inventoryContents: 0:t:344;#:16/1:t:344;#:10/4:t:69
+  potions: ''
+  bedSpawnLocation: wo:creative;x:-245.0;y:115.0;z:36.0;pi:0.0;ya:0.0
+  stats: ra:300;ma:300;el:0;ft:-20;fl:20;sa:5.0;txp:0;hp:20;fd:0.0;ex:0.0;xp:0.0

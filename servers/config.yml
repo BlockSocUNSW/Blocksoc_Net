@@ -1,0 +1,14 @@
+SimpleWelcome:
+  MOTD:
+  - "&7 Welcome, &a%player&7 to the Blocksoc Fluid Minecraft servers."
+  - "&7 Currently Online: &7%who &f[&a%numplayers &7/ &a%maxplayers&f]"
+  - "&7 Use the /server command to access our other servers."
+  - "&7     - static"
+  - "&7     - fluid"
+  - "&7     - hardcore"
+  - "&7 Tekkit server at blocksoc.net:25560."
+  - "&7 Don't forget to read the &a/rules&7 and contact us on the Blocksoc Facebook group."
+  Rules:
+  - "&e1 &7- &fNo greifing (without permission)"
+  - "&e2 &7- &fNo making fountains in the nether"
+  - "&e3 &7- &fThat is all"

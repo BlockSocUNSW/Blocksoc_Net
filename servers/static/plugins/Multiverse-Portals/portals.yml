@@ -1,0 +1,78 @@
+portals:
+  portalWorldToCreative:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: lluoc
+    location: -26.0,62.0,2.0:-22.0,66.0,2.0
+    world: world
+    destination: p:portalCreativeToWorld
+    handlerscript: ''
+  portalCreativeToWorld:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: lluoc
+    location: -244.0,114.0,34.0:-244.0,118.0,38.0
+    world: creative
+    destination: p:portalWorldToCreative
+    handlerscript: ''
+  portalFireTempleWorld:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: lluoc
+    location: -2.0,196.0,1999.0:1.0,200.0,1999.0
+    world: world
+    destination: p:portalFireTempleNether:n
+    handlerscript: ''
+  portalFireTempleNether:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: lluoc
+    location: -2.0,119.0,250.0:1.0,123.0,250.0
+    world: world_nether
+    destination: p:portalFireTempleWorld:s
+    handlerscript: ''
+  portalWorldToFluid:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: lluoc
+    location: -7.0,62.0,-16.0:-7.0,66.0,-12.0
+    world: world
+    destination: p:portalFluidToWorld
+    handlerscript: ''
+  portalFluidToWorld:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: lluoc
+    location: -6.0,68.0,92.0:-2.0,72.0,92.0
+    world: fluid
+    destination: p:portalWorldToFluid:w
+    handlerscript: ''
+  portalEndFix:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: lluoc
+    location: 666.0,35.0,97.0:673.0,35.0,106.0
+    world: world_the_end
+    destination: e:world_the_end:101.7365549327248,50.0,-0.5549703491310339:-1.9499912:89.849915
+    handlerscript: ''

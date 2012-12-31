@@ -1,0 +1,20 @@
+bind_host: 0.0.0.0:25565
+motd: Blocksoc Survival Servers
+default_server_name: static
+max_players: 30
+tab_list: 1
+timeout: 15000
+servers:
+  static: 127.0.0.1:25501
+  fluid: 127.0.0.1:25502
+  hardcore: 127.0.0.1:25503
+admins:
+- lluoc
+moderators:
+- lluoc
+disabled_commands:
+- glist
+log_num_lines: 16384
+stats_uuid: 3a030d7d-48db-4f69-ae9f-30a7541cf449
+forced_servers: null
+metrics_enabled: true
