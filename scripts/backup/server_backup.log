@@ -1,40 +1,59 @@
-2012-10-16 23:01:47,625	INFO	Starting backup process for: 16-10-12-23-01-47
-2012-10-16 23:01:53,640	INFO	Current Backups: 
-2012-10-16 23:01:53,641	INFO	    30-09-12-15-42-30:1349012553.tar
-2012-10-16 23:01:53,641	INFO	    07-10-12-18-05-01:1349625907.tar
-2012-10-16 23:01:53,641	INFO	    14-10-12-18-00-02:1350230408.tar
-2012-10-16 23:01:53,641	INFO	Tar check done.
-2012-10-16 23:01:53,641	INFO	Pushing to git.
-2012-10-16 23:04:01,554	INFO	Git push done.
-2012-10-16 23:04:06,566	INFO	Backup done.
-2012-10-16 23:04:06,567	INFO	
-2012-10-19 01:25:09,924	INFO	Starting backup process for: 19-10-12-01-25-09
-2012-10-19 01:25:15,938	INFO	Current Backups: 
-2012-10-19 01:25:15,938	INFO	    30-09-12-15-42-30:1349012553.tar
-2012-10-19 01:25:15,938	INFO	    07-10-12-18-05-01:1349625907.tar
-2012-10-19 01:25:15,938	INFO	    14-10-12-18-00-02:1350230408.tar
-2012-10-19 01:25:15,938	INFO	Tar check done.
-2012-10-19 01:25:15,939	INFO	Pushing to git.
-2012-10-19 01:30:24,030	INFO	Git push done.
-2012-10-19 01:30:29,043	INFO	Backup done.
-2012-10-19 01:30:29,043	INFO	
-2012-11-06 15:45:08,816	CRITICAL	Command failed: [mc_tekkit_restricted] say Server restarting in 5 minutes
-2012-11-06 15:45:08,844	CRITICAL	Command failed: [mc_tekkit_restricted] say Server restarting in 1 minute
-2012-11-06 15:45:08,846	INFO	Starting backup process for: 06-11-12-15-45-08
-2012-11-06 15:45:08,849	CRITICAL	Command failed: [mc_tekkit_restricted] say Starting backup
-2012-11-06 15:45:08,854	CRITICAL	Command failed: [mc_tekkit_restricted] save-all
-2012-11-06 15:45:08,859	CRITICAL	Command failed: [mc_tekkit_restricted] save-off
-2012-11-06 15:45:14,865	INFO	Current Backups: 
-2012-11-06 15:45:14,865	INFO	    14-10-12-18-00-02:1350230408.tar
-2012-11-06 15:45:14,865	INFO	    21-10-12-18-00-01:1350835207.tar
-2012-11-06 15:45:14,865	INFO	    28-10-12-18-00-01:1351443607.tar
-2012-11-06 15:45:14,866	INFO	    04-11-12-18-00-02:1352048410.tar
-2012-11-06 15:45:14,866	INFO	Tar check done.
-2012-11-06 15:45:14,866	INFO	Pushing to git.
-2012-11-06 15:47:26,462	INFO	Git push done.
-2012-11-06 15:47:31,470	CRITICAL	Command failed: [mc_tekkit_restricted] save-on
-2012-11-06 15:47:31,476	CRITICAL	Command failed: [mc_tekkit_restricted] save-all
-2012-11-06 15:47:31,482	CRITICAL	Command failed: [mc_tekkit_restricted] say Backup complete
-2012-11-06 15:47:31,484	INFO	Backup done.
-2012-11-06 15:47:31,484	INFO	
-2012-12-31 16:37:36,492	INFO	Starting backup process for: 31-12-12-16-37-36
+2012-12-31 16:59:08,875	INFO	Starting backup process for: 31-12-12-16-59-08
+2012-12-31 16:59:14,895	INFO	Current Backups: 
+2012-12-31 16:59:14,895	INFO	    31-12-12-16-56-15:1356933381.tar
+2012-12-31 16:59:14,895	INFO	Tar check done.
+2012-12-31 16:59:14,895	INFO	Pushing to git.
+2012-12-31 16:59:15,061	CRITICAL	Failed to send command: [git add server scripts]
+2012-12-31 16:59:24,584	CRITICAL	Failed to send command: [git commit  -m "2012-12-31 16:59"]
+2012-12-31 17:01:17,502	INFO	Git push done.
+2012-12-31 17:01:22,522	INFO	Backup done.
+2012-12-31 17:01:22,523	INFO	
+2012-12-31 17:02:47,213	INFO	Starting backup process for: 31-12-12-17-02-47
+2012-12-31 17:02:53,240	INFO	Current Backups: 
+2012-12-31 17:02:53,240	INFO	    31-12-12-16-56-15:1356933381.tar
+2012-12-31 17:02:53,240	INFO	Tar check done.
+2012-12-31 17:02:53,240	INFO	Pushing to git.
+2012-12-31 17:02:53,335	CRITICAL	Failed to send command: [git add server scripts]
+2012-12-31 17:02:54,282	CRITICAL	Failed to send command: [git commit  -m "2012-12-31 17:02"]
+2012-12-31 17:03:10,738	INFO	Git push done.
+2012-12-31 17:03:15,760	INFO	Backup done.
+2012-12-31 17:03:15,760	INFO	
+2012-12-31 17:03:31,902	INFO	Starting backup process for: 31-12-12-17-03-31
+2012-12-31 17:03:37,925	INFO	Current Backups: 
+2012-12-31 17:04:53,046	INFO	Tar check done.
+2012-12-31 17:04:53,046	INFO	Pushing to git.
+2012-12-31 17:04:53,188	CRITICAL	Failed to send command: [git add server scripts]
+2012-12-31 17:04:53,677	CRITICAL	Failed to send command: [git commit  -m "2012-12-31 17:03"]
+2012-12-31 17:05:14,929	INFO	Git push done.
+2012-12-31 17:05:19,948	INFO	Backup done.
+2012-12-31 17:05:21,299	INFO	
+2013-01-05 21:00:19,041	INFO	Starting backup process for: 05-01-13-21-00-19
+2013-01-05 21:00:25,087	INFO	Current Backups: 
+2013-01-05 21:00:25,087	INFO	    31-12-12-17-03-31:1356933817.tar
+2013-01-05 21:00:25,087	INFO	Tar check done.
+2013-01-05 21:00:25,087	INFO	Pushing to git.
+2013-01-05 21:00:28,315	CRITICAL	Failed to send command: [git add server scripts]
+2013-01-05 21:00:30,947	CRITICAL	Failed to send command: [git commit  -m "2013-01-05 21:00"]
+2013-01-05 21:00:50,772	INFO	Git push done.
+2013-01-05 21:00:55,799	INFO	Backup done.
+2013-01-05 21:00:55,800	INFO	
+2013-01-05 21:35:54,608	INFO	Starting backup process for: 05-01-13-21-35-54
+2013-01-05 21:36:00,655	INFO	Current Backups: 
+2013-01-05 21:36:00,655	INFO	    31-12-12-17-03-31:1356933817.tar
+2013-01-05 21:36:00,655	INFO	Tar check done.
+2013-01-05 21:36:00,655	INFO	Pushing to git.
+2013-01-05 21:36:00,867	CRITICAL	Failed to send command: [git add server scripts]
+2013-01-05 21:36:03,357	CRITICAL	Failed to send command: [git commit  -m "2013-01-05 21:35"]
+2013-01-05 21:36:23,684	INFO	Git push done.
+2013-01-05 21:36:28,708	INFO	Backup done.
+2013-01-05 21:36:28,708	INFO	
+2013-01-07 20:56:23,553	INFO	Starting backup process for: 07-01-13-20-56-23
+2013-01-07 20:56:29,596	INFO	Current Backups: 
+2013-01-07 20:56:29,596	INFO	    31-12-12-17-03-31:1356933817.tar
+2013-01-07 20:59:05,897	INFO	Tar check done.
+2013-01-07 20:59:05,897	INFO	Pushing to git.
+2013-01-07 20:59:06,619	CRITICAL	Failed to send command: [git add server scripts]
+2013-01-07 20:59:10,095	CRITICAL	Failed to send command: [git commit  -m "2013-01-07 20:56"]
+2013-01-07 20:59:32,488	INFO	Git push done.
+2013-01-07 20:59:37,543	INFO	Backup done.
+2013-01-07 20:59:37,543	INFO	

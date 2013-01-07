@@ -7,7 +7,7 @@ SERVER_SCREEN_NAMES = [ "mc_static", "mc_fluid", "mc_hardcore"]
 BACKUP_TARGET_DIR = "/home/minecraft/net"
 #If there are any files/directories that you want to exclude from the 
 #tar in this path, add them here.
-BACKUP_TARGET_EXCLUDE = ["backups", ".git"]
+BACKUP_TARGET_EXCLUDE = ["backups", ".git", "/home/minecraft/net/server/static/plugins/dynmap"]
 #The directory were tar backups are placed
 BACKUP_DIR = "/home/minecraft/net/backups/"
 #If the earliest backup is older than this then a new back up will be 

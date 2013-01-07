@@ -606,3 +606,1241 @@
 2012-12-31 15:37:37 [INFO] Unknown command. Type "help" for help.[m
 2012-12-31 15:37:37 [INFO] CONSOLE: Disabled level saving..[m
 2012-12-31 15:37:42 [INFO] [Static] clarebel has left the game[m
+2012-12-31 15:46:45 [INFO] [Static] clarebel has joined the game[m
+2012-12-31 15:56:15 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 15:56:15 [INFO] [35;1m[Server] Starting backup[m
+2012-12-31 15:56:15 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 15:56:15 [INFO] CONSOLE: Forcing save..[m
+2012-12-31 15:56:15 [INFO] CONSOLE: Save complete.[m
+2012-12-31 15:56:15 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 15:56:15 [INFO] CONSOLE: Disabled level saving..[m
+2012-12-31 15:59:08 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 15:59:08 [INFO] [35;1m[Server] Starting backup[m
+2012-12-31 15:59:08 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 15:59:08 [INFO] CONSOLE: Forcing save..[m
+2012-12-31 15:59:08 [INFO] CONSOLE: Save complete.[m
+2012-12-31 15:59:08 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 15:59:08 [INFO] CONSOLE: Disabled level saving..[m
+2012-12-31 16:01:22 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 16:01:22 [INFO] CONSOLE: Enabled level saving..[m
+2012-12-31 16:01:22 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 16:01:22 [INFO] CONSOLE: Forcing save..[m
+2012-12-31 16:01:22 [INFO] CONSOLE: Save complete.[m
+2012-12-31 16:01:22 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 16:01:22 [INFO] [35;1m[Server] Backup complete[m
+2012-12-31 16:02:47 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 16:02:47 [INFO] [35;1m[Server] Starting backup[m
+2012-12-31 16:02:47 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 16:02:47 [INFO] CONSOLE: Forcing save..[m
+2012-12-31 16:02:47 [INFO] CONSOLE: Save complete.[m
+2012-12-31 16:02:47 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 16:02:47 [INFO] CONSOLE: Disabled level saving..[m
+2012-12-31 16:03:15 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 16:03:15 [INFO] CONSOLE: Enabled level saving..[m
+2012-12-31 16:03:15 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 16:03:15 [INFO] CONSOLE: Forcing save..[m
+2012-12-31 16:03:15 [INFO] CONSOLE: Save complete.[m
+2012-12-31 16:03:15 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 16:03:15 [INFO] [35;1m[Server] Backup complete[m
+2012-12-31 16:03:31 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 16:03:31 [INFO] [35;1m[Server] Starting backup[m
+2012-12-31 16:03:31 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 16:03:31 [INFO] CONSOLE: Forcing save..[m
+2012-12-31 16:03:31 [INFO] CONSOLE: Save complete.[m
+2012-12-31 16:03:31 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 16:03:31 [INFO] CONSOLE: Disabled level saving..[m
+2012-12-31 16:05:19 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 16:05:19 [INFO] CONSOLE: Enabled level saving..[m
+2012-12-31 16:05:19 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 16:05:19 [INFO] CONSOLE: Forcing save..[m
+2012-12-31 16:05:22 [INFO] CONSOLE: Save complete.[m
+2012-12-31 16:05:22 [INFO] Unknown command. Type "help" for help.[m
+2012-12-31 16:05:22 [INFO] [35;1m[Server] Backup complete[m
+2012-12-31 16:05:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-31 16:22:32 [INFO] [Static] clarebel has left the game[m
+2012-12-31 16:22:55 [INFO] [Static] clarebel has joined the game[m
+2012-12-31 16:23:32 [INFO] [Static] clarebel has left the game[m
+2012-12-31 16:53:05 [INFO] [Static] clarebel has joined the game[m
+2012-12-31 16:57:45 [INFO] [Tekkit] bezelbub has joined the game[m
+2012-12-31 17:02:39 [INFO] [Tekkit] Yinsano has joined the game[m
+2012-12-31 17:06:31 [INFO] [Tekkit] Yinsano has left the game[m
+2012-12-31 17:13:17 [INFO] [Tekkit] bezelbub has left the game[m
+2012-12-31 17:23:05 [INFO] [Static] clarebel has left the game[m
+2012-12-31 17:29:19 [SEVERE] [xServer] Malformed Packet
+2012-12-31 17:29:19 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2012-12-31 17:29:19 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2012-12-31 17:29:19 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2012-12-31 17:29:19 [INFO] [34;1m[xServer] Tekkit has disconnected[m
+2012-12-31 17:34:30 [INFO] [34;1m[xServer] Tekkit has connected[m
+2012-12-31 17:35:49 [INFO] [Tekkit] lluoc has joined the game[m
+2012-12-31 17:42:50 [INFO] [Tekkit] lluoc has left the game[m
+2012-12-31 20:37:45 [INFO] [Static] Yinsano has joined the game[m
+2012-12-31 20:44:33 [INFO] [Static] Yinsano has left the game[m
+2012-12-31 20:44:54 [INFO] [Static] Yinsano has joined the game[m
+2012-12-31 20:45:25 [INFO] Yinsano[/127.0.0.1:36789] logged in with entity id 544 at ([world] 48.5, 69.62000000476837, 260.5)
+2012-12-31 20:45:25 [INFO] [Static] Yinsano has left the game[m
+2012-12-31 20:47:59 [INFO] Yinsano lost connection: disconnect.quitting
+2012-12-31 20:47:59 [INFO] Connection reset
+2012-12-31 20:49:28 [INFO] Yinsano[/127.0.0.1:36849] logged in with entity id 3349 at ([world] 34.663980526368746, 70.0, 204.22497504605846)
+2012-12-31 20:57:45 [INFO] Yinsano was shot by Skeleton
+2012-12-31 20:57:47 [INFO] Connection reset
+2012-12-31 20:57:47 [INFO] Yinsano lost connection: disconnect.quitting
+2013-01-01 08:32:31 [INFO] [Static] clarebel has joined the game[m
+2013-01-01 08:34:32 [INFO] [Static] mikeyberman has joined the game[m
+2013-01-01 08:34:40 [INFO] [Static] clarebel: morning[m
+2013-01-01 08:34:43 [INFO] [Static] mikeyberman: mornin[m
+2013-01-01 08:37:59 [INFO] [Static] clarebel: let me know if you see the mine/hole[m
+2013-01-01 08:38:13 [INFO] [Static] mikeyberman: sun's going down, i won't be going outside for a while[m
+2013-01-01 08:38:21 [INFO] [Static] clarebel: wuss[m
+2013-01-01 08:43:00 [INFO] [Static] clarebel died[m
+2013-01-01 08:43:06 [INFO] [Static] mikeyberman: tsk tks tsk[m
+2013-01-01 08:43:47 [INFO] [Static] clarebel: busy fighting spiders so I didn't notice the creeper[m
+2013-01-01 08:43:53 [INFO] [Static] mikeyberman: damn[m
+2013-01-01 08:49:52 [INFO] [Static] mikeyberman: .... you have WAY too much time on your hands[m
+2013-01-01 08:50:04 [INFO] [Static] clarebel: just saw the hole?[m
+2013-01-01 08:50:29 [INFO] [Static] mikeyberman: if you spent half as much time painting as you did digging this damn hole, you could fill a damn art[m
+2013-01-01 08:50:32 [INFO] [Static] mikeyberman: gallery[m
+2013-01-01 08:50:56 [INFO] [Static] clarebel: lol, not quite[m
+2013-01-01 08:52:17 [INFO] [Static] clarebel: besides work hollidays, I want to do nothing :p[m
+2013-01-01 09:08:13 [INFO] [Static] mikeyberman has left the game[m
+2013-01-01 09:25:28 [INFO] [Static] clarebel has left the game[m
+2013-01-01 10:21:20 [INFO] [Static] clarebel has joined the game[m
+2013-01-01 10:49:38 [INFO] [Static] clarebel has left the game[m
+2013-01-01 11:00:34 [INFO] [Tekkit] bezelbub has joined the game[m
+2013-01-01 12:11:29 [INFO] [Static] clarebel has joined the game[m
+2013-01-01 12:12:20 [INFO] [Static] clarebel has left the game[m
+2013-01-01 12:13:09 [INFO] [Static] clarebel has joined the game[m
+2013-01-01 12:30:03 [INFO] [Static] clarebel has left the game[m
+2013-01-01 12:30:26 [INFO] [Static] clarebel has joined the game[m
+2013-01-01 12:33:55 [INFO] [Tekkit] bezelbub has left the game[m
+2013-01-01 12:34:19 [INFO] [Static] clarebel died[m
+2013-01-01 12:34:51 [INFO] [Static] clarebel died[m
+2013-01-01 12:59:07 [INFO] [Static] clarebel has left the game[m
+2013-01-01 13:00:31 [INFO] [Static] clarebel has joined the game[m
+2013-01-01 13:34:27 [INFO] [Static] clarebel has left the game[m
+2013-01-01 13:44:47 [INFO] [Static] clarebel has joined the game[m
+2013-01-01 14:15:29 [INFO] [Static] clarebel died[m
+2013-01-01 15:32:45 [INFO] [Static] clarebel has left the game[m
+2013-01-01 15:34:38 [INFO] [Static] clarebel has joined the game[m
+2013-01-01 16:08:45 [INFO] [Static] clarebel has left the game[m
+2013-01-01 16:16:39 [INFO] [Static] clarebel has joined the game[m
+2013-01-01 16:38:51 [INFO] [Static] clarebel has left the game[m
+2013-01-01 16:39:44 [INFO] [Static] clarebel has joined the game[m
+2013-01-01 16:52:09 [INFO] [Static] clarebel has left the game[m
+2013-01-01 19:59:19 [INFO] [Static] H4ZM4T has joined the game[m
+2013-01-01 19:59:26 [INFO] [Static] H4ZM4T has left the game[m
+2013-01-01 20:00:01 [INFO] [Static] Ellethwen11 has joined the game[m
+2013-01-01 20:00:32 [INFO] [Static] H4ZM4T has joined the game[m
+2013-01-01 20:00:41 [INFO] [Static] H4ZM4T: victory[m
+2013-01-01 20:00:50 [INFO] [Static] Ellethwen11: i'm in[m
+2013-01-01 20:00:57 [INFO] [Static] Ellethwen11 has left the game[m
+2013-01-01 20:02:01 [INFO] [Static] Ellethwen11 has joined the game[m
+2013-01-01 20:02:18 [INFO] [Static] nightkhaos has joined the game[m
+2013-01-01 20:02:23 [INFO] [Static] H4ZM4T: eeevening[m
+2013-01-01 20:02:45 [INFO] [Static] nightkhaos: why you not on Tekkit?[m
+2013-01-01 20:02:57 [INFO] [Static] nightkhaos: also, why are you invisable?[m
+2013-01-01 20:02:59 [INFO] [Static] H4ZM4T: helping kim sign in[m
+2013-01-01 20:03:03 [INFO] [Static] H4ZM4T: POTIONS[m
+2013-01-01 20:03:11 [INFO] [Static] nightkhaos: your armour isn't invisable[m
+2013-01-01 20:03:22 [INFO] [Static] H4ZM4T: yup[m
+2013-01-01 20:03:24 [INFO] [Static] H4ZM4T: where is this?[m
+2013-01-01 20:03:36 [INFO] [Static] nightkhaos: argh![m
+2013-01-01 20:04:35 [INFO] [Static] H4ZM4T: ehehehehe[m
+2013-01-01 20:04:46 [INFO] [Static] Ellethwen11: i'm off[m
+2013-01-01 20:04:49 [INFO] [Static] H4ZM4T: okays[m
+2013-01-01 20:04:52 [INFO] [Static] nightkhaos: TEKKIT[m
+2013-01-01 20:04:58 [INFO] [Static] H4ZM4T: punch me now[m
+2013-01-01 20:04:59 [INFO] [Static] Ellethwen11: bye bye[m
+2013-01-01 20:05:04 [INFO] [Static] Ellethwen11 has left the game[m
+2013-01-01 20:05:05 [INFO] [Static] H4ZM4T: byeee[m
+2013-01-01 20:05:07 [INFO] [Static] nightkhaos: wtf?[m
+2013-01-01 20:05:07 [INFO] [Static] H4ZM4T: :D[m
+2013-01-01 20:05:12 [INFO] [Static] H4ZM4T: how much damage?.[m
+2013-01-01 20:05:24 [INFO] [Static] nightkhaos: equal to a punch[m
+2013-01-01 20:05:28 [INFO] [Static] H4ZM4T: hehe[m
+2013-01-01 20:05:35 [INFO] [Static] H4ZM4T: enchanted like a baous[m
+2013-01-01 20:05:53 [INFO] [Static] nightkhaos: so, tekkit?[m
+2013-01-01 20:05:54 [INFO] [Static] nightkhaos: :P[m
+2013-01-01 20:06:14 [INFO] [Static] H4ZM4T: heheh[m
+2013-01-01 20:07:23 [INFO] [Static] nightkhaos: so, what ya been doing on here? Anything?[m
+2013-01-01 20:07:40 [INFO] [Static] H4ZM4T: nothing[m
+2013-01-01 20:08:52 [INFO] [Static] H4ZM4T: I can see you[m
+2013-01-01 20:09:02 [INFO] [Static] H4ZM4T: you occasionally emit particles[m
+2013-01-01 20:09:30 [INFO] [Static] H4ZM4T: hard to spot in the rain[m
+2013-01-01 20:10:11 [INFO] [Static] H4ZM4T: anyway[m
+2013-01-01 20:10:12 [INFO] [Static] H4ZM4T: I am le off[m
+2013-01-01 20:10:14 [INFO] [Static] H4ZM4T: toodles[m
+2013-01-01 20:10:15 [INFO] [Static] H4ZM4T has left the game[m
+2013-01-01 20:11:02 [INFO] [Static] nightkhaos has left the game[m
+2013-01-01 21:10:52 [INFO] [Tekkit] bezelbub has joined the game[m
+2013-01-01 21:22:12 [INFO] [Tekkit] bezelbub has left the game[m
+2013-01-02 08:34:16 [INFO] [Tekkit] bezelbub has joined the game[m
+2013-01-02 09:15:32 [INFO] [Tekkit] bezelbub has left the game[m
+2013-01-02 09:50:28 [INFO] [Static] clarebel has joined the game[m
+2013-01-02 10:26:20 [INFO] [Static] clarebel died[m
+2013-01-02 10:34:22 [INFO] [Static] clarebel has left the game[m
+2013-01-02 10:59:19 [INFO] [Static] clarebel has joined the game[m
+2013-01-02 11:00:08 [INFO] [Static] clarebel died[m
+2013-01-02 11:12:54 [INFO] [Static] clarebel has left the game[m
+2013-01-02 11:19:10 [INFO] [Static] clarebel has joined the game[m
+2013-01-02 11:21:59 [INFO] [Tekkit] bezelbub has joined the game[m
+2013-01-02 11:22:01 [INFO] [Tekkit] bezelbub has left the game[m
+2013-01-02 11:22:35 [INFO] [Tekkit] bezelbub has joined the game[m
+2013-01-02 11:31:24 [INFO] [Static] clarebel has left the game[m
+2013-01-02 12:16:35 [INFO] [Hardcore] adrianjboyer has joined the game[m
+2013-01-02 12:32:12 [INFO] [Static] clarebel has joined the game[m
+2013-01-02 12:32:22 [INFO] [Hardcore] adrianjboyer: hi clare[m
+2013-01-02 13:15:56 [INFO] [Tekkit] bezelbub has left the game[m
+2013-01-02 13:22:21 [INFO] [Hardcore] adrianjboyer died[m
+2013-01-02 13:22:24 [INFO] [Hardcore] adrianjboyer has left the game[m
+2013-01-02 13:22:45 [INFO] [Hardcore] adrianjboyer has joined the game[m
+2013-01-02 13:22:49 [INFO] [Hardcore] adrianjboyer has left the game[m
+2013-01-02 13:22:57 [INFO] [Hardcore] adrianjboyer has joined the game[m
+2013-01-02 13:22:59 [INFO] [Hardcore] adrianjboyer has left the game[m
+2013-01-02 13:23:20 [INFO] [Hardcore] adrianjboyer has joined the game[m
+2013-01-02 13:23:24 [INFO] [Hardcore] adrianjboyer has left the game[m
+2013-01-02 13:49:51 [INFO] [Static] clarebel has left the game[m
+2013-01-02 14:12:53 [INFO] [Static] clarebel has joined the game[m
+2013-01-02 14:20:51 [INFO] [Static] clarebel died[m
+2013-01-02 14:22:29 [INFO] [Static] clarebel died[m
+2013-01-02 14:35:18 [INFO] [Static] clarebel has left the game[m
+2013-01-02 14:44:04 [INFO] [Static] clarebel has joined the game[m
+2013-01-02 15:32:26 [INFO] [Static] clarebel has left the game[m
+2013-01-02 16:14:38 [INFO] [Tekkit] bezelbub has joined the game[m
+2013-01-02 16:17:26 [INFO] [Tekkit] Yinsano has joined the game[m
+2013-01-02 16:35:31 [INFO] [Tekkit] bezelbub has left the game[m
+2013-01-02 17:13:16 [INFO] [Static] clarebel has joined the game[m
+2013-01-02 17:32:24 [INFO] [Tekkit] bezelbub has joined the game[m
+2013-01-02 17:55:51 [INFO] [Tekkit] Yinsano has left the game[m
+2013-01-02 18:14:53 [INFO] [Tekkit] Yinsano has joined the game[m
+2013-01-02 18:32:08 [INFO] [Static] clarebel has left the game[m
+2013-01-02 19:10:46 [INFO] [Static] clarebel has joined the game[m
+2013-01-02 19:22:17 [INFO] [Hardcore] adrianjboyer has joined the game[m
+2013-01-02 19:22:21 [INFO] [Hardcore] adrianjboyer has left the game[m
+2013-01-02 19:22:48 [INFO] [Hardcore] adrianjboyer has joined the game[m
+2013-01-02 19:22:51 [INFO] [Hardcore] adrianjboyer has left the game[m
+2013-01-02 19:35:57 [INFO] [Static] clarebel has left the game[m
+2013-01-02 19:37:14 [INFO] [Static] clarebel has joined the game[m
+2013-01-02 20:11:36 [INFO] [Tekkit] Yinsano has left the game[m
+2013-01-02 20:14:10 [INFO] [Tekkit] Yinsano has joined the game[m
+2013-01-02 20:15:05 [INFO] [Tekkit] bezelbub has left the game[m
+2013-01-02 20:16:18 [INFO] [Tekkit] Yinsano has left the game[m
+2013-01-02 20:21:39 [INFO] [Static] clarebel died[m
+2013-01-02 20:22:42 [INFO] [Static] mikeyberman has joined the game[m
+2013-01-02 20:23:17 [INFO] [Static] clarebel: hey[m
+2013-01-02 20:23:23 [INFO] [Static] mikeyberman: ahoy[m
+2013-01-02 20:24:17 [INFO] [Static] clarebel: I"ve added a few more buildings to my castle and updated my throne room[m
+2013-01-02 20:26:00 [INFO] [Static] mikeyberman has left the game[m
+2013-01-02 20:57:12 [INFO] [Tekkit] Yinsano has joined the game[m
+2013-01-02 20:58:27 [INFO] [Tekkit] Yinsano has left the game[m
+2013-01-02 21:19:50 [INFO] [Static] clarebel has left the game[m
+2013-01-02 21:27:07 [INFO] [Tekkit] Yinsano has joined the game[m
+2013-01-02 21:28:52 [INFO] [Hardcore] adrianjboyer has joined the game[m
+2013-01-02 21:28:56 [INFO] [Hardcore] adrianjboyer has left the game[m
+2013-01-02 22:05:00 [INFO] [Tekkit] Yinsano has left the game[m
+2013-01-02 22:11:05 [INFO] [Static] clarebel has joined the game[m
+2013-01-02 22:57:06 [INFO] [Static] clarebel has left the game[m
+2013-01-02 22:57:17 [INFO] [Static] clarebel has joined the game[m
+2013-01-02 22:57:37 [INFO] [Static] clarebel has left the game[m
+2013-01-03 09:33:19 [INFO] [Tekkit] bezelbub has joined the game[m
+2013-01-03 10:45:09 [INFO] [Tekkit] bezelbub has left the game[m
+2013-01-03 12:28:57 [INFO] [Tekkit] bezelbub has joined the game[m
+2013-01-03 13:08:17 [INFO] [Tekkit] bezelbub has left the game[m
+2013-01-03 16:27:53 [INFO] [Static] clarebel has joined the game[m
+2013-01-03 16:42:08 [INFO] [Static] adrianjboyer has joined the game[m
+2013-01-03 16:42:22 [INFO] [Static] clarebel: hello :p[m
+2013-01-03 16:42:26 [INFO] [Static] adrianjboyer: hi[m
+2013-01-03 16:43:11 [INFO] [Static] adrianjboyer: boo[m
+2013-01-03 16:43:16 [INFO] [Static] clarebel: GAH[m
+2013-01-03 16:43:42 [INFO] [Static] clarebel: do you like the new adittions?[m
+2013-01-03 17:03:49 [INFO] [Static] adrianjboyer has left the game[m
+2013-01-03 17:07:12 [INFO] [Static] clarebel has left the game[m
+2013-01-03 21:18:05 [INFO] [Static] clarebel has joined the game[m
+2013-01-03 21:19:29 [INFO] [Static] clarebel has left the game[m
+2013-01-03 21:19:58 [INFO] [Tekkit] bezelbub has joined the game[m
+2013-01-03 21:25:37 [INFO] [Tekkit] Yinsano has joined the game[m
+2013-01-03 21:36:08 [INFO] [Tekkit] Yinsano has left the game[m
+2013-01-03 21:38:38 [INFO] [Static] clarebel has joined the game[m
+2013-01-03 21:40:09 [INFO] [Static] clarebel has left the game[m
+2013-01-03 21:41:16 [INFO] [Tekkit] bezelbub has left the game[m
+2013-01-03 21:42:21 [INFO] [Tekkit] bezelbub has joined the game[m
+2013-01-03 21:48:34 [INFO] [Tekkit] zeus3rd has joined the game[m
+2013-01-03 21:54:21 [INFO] [Tekkit] Yinsano has joined the game[m
+2013-01-03 22:04:30 [INFO] [Tekkit] Yinsano has left the game[m
+2013-01-03 22:04:54 [INFO] [Tekkit] Yinsano has joined the game[m
+2013-01-03 22:07:57 [INFO] [Tekkit] zeus3rd has left the game[m
+2013-01-03 22:08:20 [INFO] [Tekkit] Yinsano has left the game[m
+2013-01-03 22:09:03 [INFO] [Tekkit] Yinsano has joined the game[m
+2013-01-03 22:09:45 [INFO] [Tekkit] Yinsano has left the game[m
+2013-01-03 22:09:55 [INFO] [Tekkit] zeus3rd has joined the game[m
+2013-01-03 22:11:26 [INFO] [Tekkit] zeus3rd has left the game[m
+2013-01-03 22:22:14 [INFO] [Tekkit] bezelbub has left the game[m
+2013-01-04 09:06:56 [INFO] [Static] clarebel has joined the game[m
+2013-01-04 09:07:03 [INFO] [Static] clarebel died[m
+2013-01-04 09:22:18 [INFO] [Tekkit] bezelbub has joined the game[m
+2013-01-04 09:28:27 [INFO] [Static] clarebel has left the game[m
+2013-01-04 10:00:02 [INFO] [Tekkit] bezelbub has left the game[m
+2013-01-04 11:42:47 [INFO] [Tekkit] Yinsano has joined the game[m
+2013-01-04 12:00:02 [INFO] [Tekkit] Yinsano has left the game[m
+2013-01-04 12:00:10 [INFO] [Tekkit] Yinsano has joined the game[m
+2013-01-04 12:04:25 [INFO] [Tekkit] Yinsano has left the game[m
+2013-01-04 12:04:34 [INFO] [Tekkit] Yinsano has joined the game[m
+2013-01-04 12:30:14 [INFO] [Tekkit] Yinsano has left the game[m
+2013-01-04 12:36:46 [INFO] [Tekkit] Yinsano has joined the game[m
+2013-01-04 12:48:14 [INFO] [Tekkit] Yinsano has left the game[m
+2013-01-04 13:09:45 [INFO] [Tekkit] bezelbub has joined the game[m
+2013-01-04 13:24:22 [INFO] [Tekkit] bezelbub has left the game[m
+2013-01-04 13:31:37 [INFO] [Tekkit] bezelbub has joined the game[m
+2013-01-04 14:20:48 [INFO] [Tekkit] bezelbub has left the game[m
+2013-01-04 14:58:57 [INFO] [Static] adrianjboyer has joined the game[m
+2013-01-04 15:07:36 [INFO] [Static] adrianjboyer has left the game[m
+2013-01-04 15:17:51 [INFO] [Static] clarebel has joined the game[m
+2013-01-04 15:26:07 [INFO] [Static] clarebel has left the game[m
+2013-01-04 17:10:45 [INFO] [Tekkit] bezelbub has joined the game[m
+2013-01-04 17:13:05 [INFO] [Tekkit] Yinsano has joined the game[m
+2013-01-04 18:25:59 [INFO] [Tekkit] Yinsano has left the game[m
+2013-01-04 18:29:47 [INFO] [Tekkit] bezelbub has left the game[m
+2013-01-04 23:43:21 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-04 23:52:20 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-05 00:46:12 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-05 00:52:54 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-05 10:14:03 [INFO] [Static] adrianjboyer has joined the game[m
+2013-01-05 10:30:22 [INFO] [Static] adrianjboyer has left the game[m
+2013-01-05 12:28:31 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-05 12:29:55 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-05 15:13:56 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-05 15:14:57 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-05 16:45:21 [INFO] [Static] clarebel has joined the game[m
+2013-01-05 16:53:34 [INFO] [Static] clarebel has left the game[m
+2013-01-05 16:54:25 [INFO] [Static] clarebel has joined the game[m
+2013-01-05 17:35:32 [INFO] [Static] clarebel has left the game[m
+2013-01-05 17:43:41 [INFO] [Static] clarebel has joined the game[m
+2013-01-05 17:48:26 [INFO] [Static] clarebel has left the game[m
+2013-01-05 18:10:51 [INFO] [Static] clarebel has joined the game[m
+2013-01-05 19:38:46 [INFO] [Static] clarebel died[m
+2013-01-05 19:41:08 [INFO] [Static] clarebel died[m
+2013-01-05 19:56:02 [INFO] [Static] clarebel died[m
+2013-01-05 20:00:19 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 20:00:19 [INFO] [35;1m[Server] Starting backup[m
+2013-01-05 20:00:19 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 20:00:19 [INFO] CONSOLE: Forcing save..[m
+2013-01-05 20:00:23 [INFO] CONSOLE: Save complete.[m
+2013-01-05 20:00:23 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 20:00:23 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-05 20:00:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-05 20:00:55 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 20:00:55 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-05 20:00:55 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 20:00:55 [INFO] CONSOLE: Forcing save..[m
+2013-01-05 20:00:55 [INFO] CONSOLE: Save complete.[m
+2013-01-05 20:00:55 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 20:00:55 [INFO] [35;1m[Server] Backup complete[m
+2013-01-05 20:19:03 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-05 20:35:54 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 20:35:54 [INFO] [35;1m[Server] Starting backup[m
+2013-01-05 20:35:54 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 20:35:54 [INFO] CONSOLE: Forcing save..[m
+2013-01-05 20:35:54 [INFO] CONSOLE: Save complete.[m
+2013-01-05 20:35:54 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 20:35:54 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-05 20:36:28 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 20:36:28 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-05 20:36:28 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 20:36:28 [INFO] CONSOLE: Forcing save..[m
+2013-01-05 20:36:28 [INFO] CONSOLE: Save complete.[m
+2013-01-05 20:36:28 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 20:36:28 [INFO] [35;1m[Server] Backup complete[m
+2013-01-05 21:00:01 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 21:00:01 [INFO] [35;1m[Server] Starting backup[m
+2013-01-05 21:00:01 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 21:00:01 [INFO] CONSOLE: Forcing save..[m
+2013-01-05 21:00:01 [INFO] CONSOLE: Save complete.[m
+2013-01-05 21:00:01 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 21:00:01 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-05 21:00:29 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 21:00:29 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-05 21:00:29 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 21:00:29 [INFO] CONSOLE: Forcing save..[m
+2013-01-05 21:00:29 [INFO] CONSOLE: Save complete.[m
+2013-01-05 21:00:29 [INFO] Unknown command. Type "help" for help.[m
+2013-01-05 21:00:29 [INFO] [35;1m[Server] Backup complete[m
+2013-01-05 21:01:53 [INFO] [Static] clarebel has left the game[m
+2013-01-05 21:04:40 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-05 21:06:11 [INFO] [Static] clarebel has joined the game[m
+2013-01-05 21:10:28 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-05 21:13:14 [INFO] [Tekkit] lluoc: a[m
+2013-01-05 21:13:15 [INFO] [Tekkit] lluoc: a[m
+2013-01-05 21:13:16 [INFO] [Tekkit] lluoc: a[m
+2013-01-05 21:13:17 [INFO] [Tekkit] lluoc: a[m
+2013-01-05 21:13:17 [INFO] [Tekkit] lluoc: a[m
+2013-01-05 21:13:17 [INFO] [Tekkit] lluoc: a[m
+2013-01-05 21:13:17 [INFO] [Tekkit] lluoc: a[m
+2013-01-05 21:13:18 [INFO] [Tekkit] lluoc: a[m
+2013-01-05 21:27:25 [INFO] [Static] clarebel died[m
+2013-01-05 21:29:27 [INFO] [Static] clarebel has left the game[m
+2013-01-05 21:29:33 [INFO] [Static] clarebel has joined the game[m
+2013-01-05 21:29:44 [INFO] [Static] clarebel died[m
+2013-01-05 21:29:51 [INFO] [Tekkit] lluoc: ...[m
+2013-01-05 21:30:12 [INFO] [Static] clarebel: the lag is so bad I don't see them before I am dead[m
+2013-01-05 21:30:30 [INFO] [Tekkit] lluoc: really... how bad is the lag?[m
+2013-01-05 21:31:10 [INFO] [Hardcore] lluoc has joined the game[m
+2013-01-05 21:31:17 [INFO] [Static] lluoc has joined the game[m
+2013-01-05 21:31:17 [INFO] [Hardcore] lluoc has left the game[m
+2013-01-05 21:31:20 [INFO] [Static] lluoc has left the game[m
+2013-01-05 21:31:22 [INFO] [Static] clarebel: so bad that I was punching one for two minutes and then died[m
+2013-01-05 21:31:35 [INFO] [Static] lluoc has joined the game[m
+2013-01-05 21:31:42 [INFO] [Static] lluoc: ... realy[m
+2013-01-05 21:31:51 [INFO] [Static] lluoc: damn, this is bad[m
+2013-01-05 21:31:57 [INFO] [Static] lluoc: wait... what.t[m
+2013-01-05 21:32:06 [INFO] [Static] lluoc: test[m
+2013-01-05 21:32:09 [INFO] [Static] clarebel: so shockingly bad, I die and am able to move to a diff room[m
+2013-01-05 21:32:13 [INFO] [Static] lluoc: test[m
+2013-01-05 21:32:15 [INFO] [Static] lluoc: test[m
+2013-01-05 21:32:20 [INFO] [Static] lluoc: hmm[m
+2013-01-05 21:32:44 [INFO] [Static] clarebel: ok, it seems to have calmed down[m
+2013-01-05 21:32:54 [INFO] [Static] lluoc: ... so much cobble.[m
+2013-01-05 21:33:02 [INFO] [Static] clarebel: lol you at mine?[m
+2013-01-05 21:33:11 [INFO] [Static] lluoc: just tped over[m
+2013-01-05 21:33:18 [INFO] [Static] lluoc: and then the lag cleared up...[m
+2013-01-05 21:33:19 [INFO] [Static] lluoc: sigh[m
+2013-01-05 21:33:52 [INFO] [Static] lluoc: nice[m
+2013-01-05 21:34:06 [INFO] [Static] clarebel: thanks, theres a lot of food in the kitchen if you want some[m
+2013-01-05 21:34:16 [INFO] [Static] lluoc: I'm ok.[m
+2013-01-05 21:34:25 [INFO] [Static] lluoc: thanks though[m
+2013-01-05 21:34:57 [INFO] [Static] lluoc: just to check, you know about the online map for this server righte[m
+2013-01-05 21:35:05 [INFO] [Static] clarebel: ... nope[m
+2013-01-05 21:35:19 [INFO] [Static] lluoc: in a browser, go to blocksoc.net:8122[m
+2013-01-05 21:35:27 [INFO] [Static] clarebel died[m
+2013-01-05 21:35:34 [INFO] [Static] lluoc: ...[m
+2013-01-05 21:35:46 [INFO] [Static] lluoc: gtg[m
+2013-01-05 21:35:49 [INFO] [Static] clarebel: ...thats what I get for pausing for a drink[m
+2013-01-05 21:35:52 [INFO] [Static] lluoc has left the game[m
+2013-01-05 21:38:36 [INFO] [Static] clarebel died[m
+2013-01-05 21:39:19 [INFO] [Static] clarebel died[m
+2013-01-05 21:44:29 [INFO] [Static] lluoc has joined the game[m
+2013-01-05 21:45:58 [INFO] [Static] lluoc: it is weird not beinga ble to fly.[m
+2013-01-05 21:46:18 [INFO] [Static] clarebel: dawww, poor life of an admin :p[m
+2013-01-05 21:46:33 [INFO] [Static] lluoc: it truly is hell[m
+2013-01-05 21:48:11 [INFO] [Static] lluoc has left the game[m
+2013-01-05 21:49:21 [INFO] [Tekkit] lluoc: and back to flying[m
+2013-01-05 21:49:30 [INFO] [Static] clarebel: lol[m
+2013-01-05 22:08:24 [INFO] [Static] clarebel has left the game[m
+2013-01-05 22:13:03 [INFO] [Tekkit] bezelbub has joined the game[m
+2013-01-05 22:13:12 [INFO] [Tekkit] bezelbub: heya[m
+2013-01-05 22:13:20 [INFO] [Tekkit] lluoc: hey[m
+2013-01-05 22:13:39 [INFO] [Tekkit] lluoc: hey hey, guess what[m
+2013-01-05 22:14:07 [INFO] [Tekkit] bezelbub: what?[m
+2013-01-05 22:14:12 [INFO] [Tekkit] lluoc: FUCK CIRCUITS[m
+2013-01-05 22:14:23 [INFO] [Tekkit] bezelbub: whats up?[m
+2013-01-05 22:14:33 [INFO] [Tekkit] lluoc: did you see the flow chart I made?[m
+2013-01-05 22:14:42 [INFO] [Tekkit] bezelbub: i think so[m
+2013-01-05 22:14:59 [INFO] [Tekkit] lluoc: go look closly at the circuit node.[m
+2013-01-05 22:15:05 [INFO] [Tekkit] lluoc: I'll give you a hint to find it[m
+2013-01-05 22:15:15 [INFO] [Tekkit] lluoc: the right side is almost solid black...[m
+2013-01-05 22:17:20 [INFO] [Tekkit] bezelbub: the one posted with the tag well that escalated quickly?[m
+2013-01-05 22:17:40 [INFO] [Tekkit] lluoc: yeah... actually that one is missing the forcefeild stuff[m
+2013-01-05 22:18:41 [INFO] [Tekkit] bezelbub: i think its on my factory list[m
+2013-01-05 22:18:59 [INFO] [Tekkit] lluoc: ?[m
+2013-01-05 22:19:22 [INFO] [Tekkit] bezelbub: automated fabrication systems to make[m
+2013-01-05 22:19:33 [INFO] [Tekkit] lluoc: that's kind of what I'm setting up now[m
+2013-01-05 22:19:45 [INFO] [Tekkit] lluoc: I've given up tring to find a lag free pipe system[m
+2013-01-05 22:19:59 [INFO] [Tekkit] lluoc: so I'm just going to use ender chests as the nodes[m
+2013-01-05 22:20:27 [INFO] [Tekkit] bezelbub: short regular pneumatics, and sen whole stacks wherever possible[m
+2013-01-05 22:20:52 [INFO] [Tekkit] lluoc: Tried[m
+2013-01-05 22:21:12 [INFO] [Tekkit] bezelbub: our autofabs dont get lag from them[m
+2013-01-05 22:21:29 [INFO] [Tekkit] lluoc: Yeah they do. You don't see the command output.[m
+2013-01-05 22:21:41 [INFO] [Tekkit] lluoc: but lag isn't the problem actually. It's buffer overflows[m
+2013-01-05 22:21:55 [INFO] [Tekkit] bezelbub: all right then, not NOCTICABLE lag[m
+2013-01-05 22:21:55 [INFO] [Tekkit] lluoc: whichI get more than most for some reason[m
+2013-01-05 22:22:11 [INFO] [Tekkit] lluoc: heh. The scale that I want to build at will cause lag though[m
+2013-01-05 22:22:39 [INFO] [Tekkit] bezelbub: wait, are you using red alloy wire?[m
+2013-01-05 22:22:49 [INFO] [Tekkit] lluoc: no.[m
+2013-01-05 22:23:11 [INFO] [Tekkit] bezelbub: yay, lag avoided[m
+2013-01-05 22:23:47 [INFO] [Tekkit] lluoc: heh. Anyway this will end up being a far more compact version than I could make with just tubes anyw[m
+2013-01-05 22:23:51 [INFO] [Tekkit] lluoc: anyway[m
+2013-01-05 22:24:17 [INFO] [Tekkit] lluoc: zzz[m
+2013-01-05 22:24:46 [INFO] [Tekkit] lluoc: thanks[m
+2013-01-05 22:24:50 [INFO] [Static] clarebel has joined the game[m
+2013-01-05 22:25:25 [INFO] [Tekkit] bezelbub: how are you getting it in and out of enderchests?[m
+2013-01-05 22:25:31 [INFO] [Tekkit] lluoc: filters[m
+2013-01-05 22:25:46 [INFO] [Tekkit] lluoc: Once I have a set up working I'll show you.[m
+2013-01-05 22:26:29 [INFO] [Tekkit] lluoc: it really is the simplest thing.[m
+2013-01-05 22:27:28 [INFO] [Tekkit] bezelbub: dont you need a pneumatic tube between filter and ouput chest?[m
+2013-01-05 22:27:42 [INFO] [Tekkit] lluoc: ...[m
+2013-01-05 22:28:06 [INFO] [Tekkit] bezelbub: forgot to test something?[m
+2013-01-05 22:28:08 [INFO] [Tekkit] lluoc: going to build an exaple[m
+2013-01-05 22:29:10 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-05 22:29:37 [INFO] [Tekkit] bezelbub: bugger off lag, youre adopted and no one likes you[m
+2013-01-05 22:30:04 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-05 22:31:34 [INFO] [Static] clarebel has left the game[m
+2013-01-05 22:31:57 [INFO] [Static] clarebel has joined the game[m
+2013-01-05 22:33:37 [INFO] [Tekkit] lluoc: can i tp you to me?[m
+2013-01-05 22:34:51 [INFO] [Tekkit] lluoc: setting it to about 0.5 prevents more than 1 stack from overflowing at a time[m
+2013-01-05 22:35:15 [INFO] [Tekkit] lluoc: optimally I'd set up a second signal at the top to get them out faster[m
+2013-01-05 22:36:42 [INFO] [Tekkit] bezelbub: jesus dude ask. i was AFK[m
+2013-01-05 22:36:55 [INFO] [Tekkit] lluoc: i did. then got tired[m
+2013-01-05 22:37:01 [INFO] [Tekkit] bezelbub: t:P[m
+2013-01-05 22:37:26 [INFO] [Tekkit] lluoc: umm[m
+2013-01-05 22:37:34 [INFO] [Tekkit] lluoc: ok, never mind[m
+2013-01-05 22:37:35 [INFO] [Tekkit] bezelbub: no mine[m
+2013-01-05 22:38:17 [INFO] [Tekkit] lluoc: anyway, that explain what I'm going to do>[m
+2013-01-05 22:38:39 [INFO] [Tekkit] bezelbub: why the item detector?[m
+2013-01-05 22:39:01 [INFO] [Tekkit] lluoc: the setting it is on causes it to put out a signal if it has an item stuck in it[m
+2013-01-05 22:39:07 [INFO] [Tekkit] lluoc: what did you do?[m
+2013-01-05 22:39:11 [INFO] [Tekkit] lluoc: oh...[m
+2013-01-05 22:39:17 [INFO] [Tekkit] lluoc: delete the stuff I put down[m
+2013-01-05 22:39:46 [INFO] [Tekkit] bezelbub: yes but WHY?[m
+2013-01-05 22:40:10 [INFO] [Tekkit] bezelbub: the filter doesnt send without a valid destination[m
+2013-01-05 22:40:33 [INFO] [Tekkit] lluoc: lets try[m
+2013-01-05 22:42:32 [INFO] [Static] clarebel died[m
+2013-01-05 22:42:49 [INFO] [Tekkit] lluoc: hmm, ok I thought that it didn't inject into crafting table inventories...[m
+2013-01-05 22:42:57 [INFO] [Tekkit] lluoc: well this changes things[m
+2013-01-05 22:43:29 [INFO] [Tekkit] bezelbub: were you appliying a tick before?[m
+2013-01-05 22:43:39 [INFO] [Tekkit] bezelbub: blinked and missed[m
+2013-01-05 22:43:46 [INFO] [Tekkit] lluoc: i was just assuming from past exerience. Apparenyly got confused[m
+2013-01-05 22:44:11 [INFO] [Tekkit] bezelbub: i was right?[m
+2013-01-05 22:44:37 [INFO] [Tekkit] bezelbub: if so i may hold a parade[m
+2013-01-05 22:44:48 [INFO] [Tekkit] lluoc: ok. I'll get the fireworks[m
+2013-01-05 22:44:56 [INFO] [Tekkit] lluoc: ... and by that I mean nuke[m
+2013-01-05 22:45:08 [INFO] [Tekkit] bezelbub: oh, i have to inform you about our multiple force fields[m
+2013-01-05 22:45:17 [INFO] [Tekkit] lluoc: shows[m
+2013-01-05 22:45:28 [INFO] [Tekkit] bezelbub: stay there[m
+2013-01-05 22:46:25 [INFO] [Tekkit] lluoc: heh heh heh[m
+2013-01-05 22:46:49 [INFO] [Tekkit] lluoc: nice idea with the tower too[m
+2013-01-05 22:46:56 [INFO] [Tekkit] lluoc: 3 sugestions.[m
+2013-01-05 22:47:03 [INFO] [Tekkit] lluoc: zapper addon[m
+2013-01-05 22:47:06 [INFO] [Tekkit] bezelbub: sadly it makes it look like a dildo[m
+2013-01-05 22:47:11 [INFO] [Tekkit] lluoc: camoflage addon with ice.[m
+2013-01-05 22:47:16 [INFO] [Tekkit] lluoc: ... true true[m
+2013-01-05 22:47:16 [INFO] [Tekkit] bezelbub: later[m
+2013-01-05 22:47:34 [INFO] [Tekkit] lluoc: and a one time run with block cutter as a nuke can still get in under the feild[m
+2013-01-05 22:47:51 [INFO] [Tekkit] lluoc: the lag will be intense but just stay logged on for a while.[m
+2013-01-05 22:48:21 [INFO] [Tekkit] bezelbub: manually digging under[m
+2013-01-05 22:48:34 [INFO] [Tekkit] lluoc: why?[m
+2013-01-05 22:48:57 [INFO] [Tekkit] bezelbub: already labs down here[m
+2013-01-05 22:49:13 [INFO] [Tekkit] lluoc: ahh... opps[m
+2013-01-05 22:49:26 [INFO] [Tekkit] bezelbub: >.<[m
+2013-01-05 22:49:29 [INFO] [Tekkit] lluoc: by the way, don't try to clear out the inside of a feild with nukes.[m
+2013-01-05 22:50:11 [INFO] [Tekkit] bezelbub: you er, havent looked at hell recently have you[m
+2013-01-05 22:50:23 [INFO] [Tekkit] bezelbub: follows me[m
+2013-01-05 22:50:24 [INFO] [Tekkit] lluoc: you mean the water everywher?[m
+2013-01-05 22:50:37 [INFO] [Tekkit] bezelbub: noooo..[m
+2013-01-05 22:50:43 [INFO] [Tekkit] lluoc: where are you?[m
+2013-01-05 22:50:46 [INFO] [Tekkit] bezelbub: who managed that?[m
+2013-01-05 22:51:01 [INFO] [Tekkit] lluoc: nelly and taylor[m
+2013-01-05 22:51:08 [INFO] [Tekkit] lluoc: you can make water source with UU matter[m
+2013-01-05 22:51:12 [INFO] [Tekkit] bezelbub: should have known[m
+2013-01-05 22:51:22 [INFO] [Tekkit] lluoc: no, you should have suspected ben[m
+2013-01-05 22:51:28 [INFO] [Tekkit] lluoc: damn heritict[m
+2013-01-05 22:51:45 [INFO] [Tekkit] lluoc: ...[m
+2013-01-05 22:52:06 [INFO] [Tekkit] lluoc: wow[m
+2013-01-05 22:52:10 [INFO] [Tekkit] lluoc: whose is this?s[m
+2013-01-05 22:52:29 [INFO] [Tekkit] bezelbub: me and paul/yinsano[m
+2013-01-05 22:52:49 [INFO] [Tekkit] lluoc: I see someone set off a nuke in the lava[m
+2013-01-05 22:53:03 [INFO] [Tekkit] bezelbub: errr yes.... one[m
+2013-01-05 22:53:10 [INFO] [Tekkit] lluoc: heh[m
+2013-01-05 22:53:25 [INFO] [Tekkit] lluoc: whats the tail tracks to?[m
+2013-01-05 22:53:29 [INFO] [Tekkit] lluoc: where?[m
+2013-01-05 22:53:43 [INFO] [Tekkit] bezelbub: remote lab, eventualy[m
+2013-01-05 22:53:55 [INFO] [Tekkit] bezelbub: dont, it just goes on[m
+2013-01-05 22:54:09 [INFO] [Tekkit] lluoc: made with a tunnel borer?[m
+2013-01-05 22:54:19 [INFO] [Tekkit] bezelbub: originally[m
+2013-01-05 22:54:27 [INFO] [Tekkit] bezelbub: one fell in[m
+2013-01-05 22:54:34 [INFO] [Tekkit] lluoc: ... heh[m
+2013-01-05 22:55:13 [INFO] [Tekkit] bezelbub: still laying in the last floors. Would be done if not for server revise[m
+2013-01-05 22:55:14 [INFO] [Tekkit] lluoc: oh in case your wondering, I don't plan to shut this server down in favor of[m
+2013-01-05 22:55:17 [INFO] [Tekkit] lluoc: tekkit lite[m
+2013-01-05 22:57:23 [INFO] [Tekkit] bezelbub: we made an auto fab for reinforced glass and stone for here[m
+2013-01-05 22:58:16 [INFO] [Tekkit] lluoc: have you ever messed with pushing power through teleport pipes?[m
+2013-01-05 22:58:35 [INFO] [Tekkit] lluoc: I mean massive amounts[m
+2013-01-05 22:58:42 [INFO] [Tekkit] bezelbub: no. didnt want to be the one to make the server go bang[m
+2013-01-05 22:59:51 [INFO] [Tekkit] lluoc: heh, fair enought. The engery loss is pretty big per HV but with enough of them[m
+2013-01-05 23:00:12 [INFO] [Tekkit] lluoc: it also looks nive[m
+2013-01-05 23:00:14 [INFO] [Tekkit] lluoc: nice[m
+2013-01-05 23:04:52 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-05 23:05:42 [INFO] [Tekkit] bezelbub has left the game[m
+2013-01-05 23:05:50 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-05 23:11:15 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-05 23:11:19 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 00:04:24 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 00:04:31 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 00:10:15 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 00:11:17 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 00:11:25 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 00:15:14 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 00:15:29 [INFO] [Static] clarebel has left the game[m
+2013-01-06 00:23:54 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 00:23:59 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 03:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 03:00:02 [INFO] [35;1m[Server] Starting backup[m
+2013-01-06 03:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 03:00:02 [INFO] CONSOLE: Forcing save..[m
+2013-01-06 03:00:02 [INFO] CONSOLE: Save complete.[m
+2013-01-06 03:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 03:00:02 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-06 03:00:36 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 03:00:36 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-06 03:00:36 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 03:00:36 [INFO] CONSOLE: Forcing save..[m
+2013-01-06 03:00:36 [INFO] CONSOLE: Save complete.[m
+2013-01-06 03:00:36 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 03:00:36 [INFO] [35;1m[Server] Backup complete[m
+2013-01-06 03:01:10 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 03:01:15 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 03:01:43 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 03:25:23 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 03:29:09 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 03:29:15 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 03:33:49 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 03:33:55 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 03:45:38 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 03:45:43 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 03:52:41 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 03:52:47 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 03:59:48 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 04:00:10 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 04:08:59 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 04:09:28 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 04:54:29 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 08:43:52 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 08:53:59 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 09:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 09:00:02 [INFO] [35;1m[Server] Starting backup[m
+2013-01-06 09:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 09:00:02 [INFO] CONSOLE: Forcing save..[m
+2013-01-06 09:00:02 [INFO] CONSOLE: Save complete.[m
+2013-01-06 09:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 09:00:02 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-06 09:00:41 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 09:00:41 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-06 09:00:41 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 09:00:41 [INFO] CONSOLE: Forcing save..[m
+2013-01-06 09:00:41 [INFO] CONSOLE: Save complete.[m
+2013-01-06 09:00:41 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 09:00:41 [INFO] [35;1m[Server] Backup complete[m
+2013-01-06 12:23:53 [INFO] [Static] clarebel has joined the game[m
+2013-01-06 12:32:27 [INFO] [Static] clarebel died[m
+2013-01-06 12:51:38 [INFO] [Static] clarebel has left the game[m
+2013-01-06 12:51:45 [INFO] [Static] clarebel has joined the game[m
+2013-01-06 13:02:34 [INFO] [Static] clarebel has left the game[m
+2013-01-06 14:25:05 [INFO] [Static] clarebel has joined the game[m
+2013-01-06 14:33:00 [INFO] [Static] clarebel died[m
+2013-01-06 14:34:46 [INFO] [Static] clarebel died[m
+2013-01-06 14:58:08 [INFO] [Static] clarebel has left the game[m
+2013-01-06 15:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 15:00:02 [INFO] [35;1m[Server] Starting backup[m
+2013-01-06 15:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 15:00:02 [INFO] CONSOLE: Forcing save..[m
+2013-01-06 15:00:02 [INFO] CONSOLE: Save complete.[m
+2013-01-06 15:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 15:00:02 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-06 15:00:37 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 15:00:37 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-06 15:00:37 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 15:00:37 [INFO] CONSOLE: Forcing save..[m
+2013-01-06 15:00:37 [INFO] CONSOLE: Save complete.[m
+2013-01-06 15:00:37 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 15:00:37 [INFO] [35;1m[Server] Backup complete[m
+2013-01-06 15:03:23 [INFO] [Static] clarebel has joined the game[m
+2013-01-06 15:53:14 [INFO] [Static] clarebel has left the game[m
+2013-01-06 16:03:17 [INFO] [Static] clarebel has joined the game[m
+2013-01-06 16:42:45 [INFO] [Static] clarebel has left the game[m
+2013-01-06 16:47:40 [INFO] [Tekkit] Yinsano has joined the game[m
+2013-01-06 17:48:46 [INFO] [Tekkit] H4ZM4T has left the game[m
+2013-01-06 17:50:36 [INFO] [Tekkit] H4ZM4T has joined the game[m
+2013-01-06 17:50:42 [INFO] [Static] clarebel has joined the game[m
+2013-01-06 17:51:10 [INFO] [Tekkit] H4ZM4T has left the game[m
+2013-01-06 17:53:16 [INFO] [Tekkit] H4ZM4T has joined the game[m
+2013-01-06 17:53:25 [INFO] [Static] clarebel: come to normal nelly[m
+2013-01-06 17:53:47 [INFO] [Tekkit] H4ZM4T: nevar[m
+2013-01-06 17:53:52 [INFO] [Tekkit] H4ZM4T: tekkit is bettar[m
+2013-01-06 17:54:00 [INFO] [Static] clarebel: but my castle is pimping[m
+2013-01-06 17:54:12 [INFO] [Tekkit] H4ZM4T: yeah[m
+2013-01-06 17:54:20 [INFO] [Tekkit] H4ZM4T: but so is my world destroyer[m
+2013-01-06 17:54:54 [INFO] [Static] clarebel: ok, but i will eventually ned help building some booby traps[m
+2013-01-06 17:55:01 [INFO] [Tekkit] H4ZM4T: but tekkkkkit[m
+2013-01-06 17:55:44 [INFO] [Static] clarebel: but killing adrian[m
+2013-01-06 17:55:55 [INFO] [Tekkit] H4ZM4T: but tekkit lets me do it in hilarious ways[m
+2013-01-06 17:56:56 [INFO] [Static] clarebel: you need to see my throne though[m
+2013-01-06 18:03:46 [INFO] [Tekkit] Yinsano has left the game[m
+2013-01-06 18:07:50 [INFO] [Tekkit] H4ZM4T: I may or may not have 1056 nukes[m
+2013-01-06 18:08:09 [INFO] [Static] clarebel: totally necessary[m
+2013-01-06 18:08:44 [INFO] [Tekkit] H4ZM4T: uhuh[m
+2013-01-06 18:31:28 [INFO] [Static] clarebel: ummmm... if the ground suddenly catches fire in front of you is it safe to assume lightning hit it?[m
+2013-01-06 18:31:34 [INFO] [Tekkit] H4ZM4T: yeah[m
+2013-01-06 18:31:50 [INFO] [Static] clarebel: that was cool[m
+2013-01-06 18:35:17 [INFO] [Tekkit] H4ZM4T has left the game[m
+2013-01-06 18:53:36 [INFO] [Static] clarebel has left the game[m
+2013-01-06 19:53:39 [INFO] [Static] clarebel has joined the game[m
+2013-01-06 20:00:28 [INFO] [Static] clarebel has left the game[m
+2013-01-06 20:07:43 [INFO] [Static] clarebel has joined the game[m
+2013-01-06 20:13:16 [INFO] [Static] clarebel has left the game[m
+2013-01-06 20:13:24 [INFO] [Static] clarebel has joined the game[m
+2013-01-06 20:19:21 [INFO] [Static] clarebel died[m
+2013-01-06 20:23:15 [INFO] [Static] clarebel died[m
+2013-01-06 20:33:24 [INFO] [Static] clarebel died[m
+2013-01-06 20:43:01 [INFO] [Static] clarebel died[m
+2013-01-06 20:44:57 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 20:51:20 [INFO] [Static] clarebel died[m
+2013-01-06 21:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 21:00:02 [INFO] [35;1m[Server] Starting backup[m
+2013-01-06 21:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 21:00:02 [INFO] CONSOLE: Forcing save..[m
+2013-01-06 21:00:02 [INFO] CONSOLE: Save complete.[m
+2013-01-06 21:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 21:00:02 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-06 21:00:38 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 21:00:38 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-06 21:00:38 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 21:00:38 [INFO] CONSOLE: Forcing save..[m
+2013-01-06 21:00:38 [INFO] CONSOLE: Save complete.[m
+2013-01-06 21:00:38 [INFO] Unknown command. Type "help" for help.[m
+2013-01-06 21:00:38 [INFO] [35;1m[Server] Backup complete[m
+2013-01-06 21:07:55 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 21:08:01 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 21:15:47 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 21:35:13 [INFO] [Tekkit] Yinsano has joined the game[m
+2013-01-06 21:51:43 [INFO] [Static] clarebel has left the game[m
+2013-01-06 21:53:56 [INFO] [Static] clarebel has joined the game[m
+2013-01-06 21:56:41 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 21:56:46 [INFO] [Tekkit] lluoc: hey[m
+2013-01-06 21:57:04 [INFO] [Tekkit] Yinsano: Hey[m
+2013-01-06 21:58:18 [INFO] [Tekkit] Yinsano: So, I've been having some trouble with frame motors[m
+2013-01-06 21:58:28 [INFO] [Tekkit] lluoc: ?[m
+2013-01-06 21:58:32 [INFO] [Tekkit] Yinsano: Have they been altered in the update?[m
+2013-01-06 21:58:45 [INFO] [Tekkit] lluoc: I havent updeated the server[m
+2013-01-06 21:58:47 [INFO] [Tekkit] lluoc: so no[m
+2013-01-06 21:59:15 [INFO] [Tekkit] Yinsano: In that case, pray this slight modification works[m
+2013-01-06 21:59:26 [INFO] [Tekkit] lluoc: heh, good luck[m
+2013-01-06 22:01:35 [INFO] [Tekkit] Yinsano: Cue Evil laughter[m
+2013-01-06 22:01:42 [INFO] [Static] clarebel has left the game[m
+2013-01-06 22:02:31 [INFO] [Tekkit] lluoc: there we go[m
+2013-01-06 22:05:44 [INFO] [Tekkit] Yinsano: Interesting, You cannot ad Lights to a frame...[m
+2013-01-06 22:13:26 [INFO] [Tekkit] Yinsano: Is the Black hole ring worth the effort?[m
+2013-01-06 22:13:44 [INFO] [Tekkit] lluoc: well no. It's diabled[m
+2013-01-06 22:14:24 [INFO] [Tekkit] Yinsano: and where it not, would it be worth it?[m
+2013-01-06 22:14:36 [INFO] [Tekkit] lluoc: not sure really.[m
+2013-01-06 22:14:54 [INFO] [Tekkit] lluoc: I mean, you can use it to infinetly duplicate items so I guess...[m
+2013-01-06 22:14:57 [INFO] [Tekkit] lluoc: though that is a bug[m
+2013-01-06 22:15:28 [INFO] [Tekkit] Yinsano: I was just affter something to draw Items towards me, but that is impressively broken[m
+2013-01-06 22:20:45 [INFO] [Tekkit] Yinsano: So, what can I use an Iron band for that Is enabled?[m
+2013-01-06 22:20:59 [INFO] [Tekkit] lluoc: swiftwolfs ring[m
+2013-01-06 22:21:15 [INFO] [Tekkit] Yinsano: and only that?[m
+2013-01-06 22:21:23 [INFO] [Tekkit] lluoc: yep[m
+2013-01-06 22:21:35 [INFO] [Tekkit] lluoc: why, did you make 50 of them?[m
+2013-01-06 22:21:55 [INFO] [Tekkit] Yinsano: No, just one, but I already have the swqiftwolf ring[m
+2013-01-06 22:22:13 [INFO] [Tekkit] lluoc: let me just check that I haven't forgotten anything[m
+2013-01-06 22:23:52 [INFO] [Tekkit] lluoc: Mercurials eye, red/dark matter tools, klein stars, alchemy bags, indiction touches[m
+2013-01-06 22:24:23 [INFO] [Tekkit] lluoc: repair stuff, transmutation tablets[m
+2013-01-06 22:24:29 [INFO] [Tekkit] lluoc: thats all that is enabled[m
+2013-01-06 22:25:41 [INFO] [Tekkit] Yinsano: Mercurials Eye?  Any good?[m
+2013-01-06 22:25:52 [INFO] [Tekkit] lluoc: fucking brillient[m
+2013-01-06 22:26:43 [INFO] [Tekkit] Yinsano: lag?[m
+2013-01-06 22:26:46 [INFO] [Tekkit] lluoc: you'll need a klien star for it[m
+2013-01-06 22:26:53 [INFO] [Tekkit] Yinsano has left the game[m
+2013-01-06 22:33:37 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 22:34:15 [INFO] [Static] clarebel has joined the game[m
+2013-01-06 22:43:01 [INFO] [Static] clarebel has left the game[m
+2013-01-06 22:45:44 [INFO] [Tekkit] Yinsano has joined the game[m
+2013-01-06 23:02:35 [INFO] [Tekkit] H4ZM4T has joined the game[m
+2013-01-06 23:10:12 [INFO] [Tekkit] H4ZM4T: I see you[m
+2013-01-06 23:10:19 [INFO] [Tekkit] H4ZM4T: but don't know how to get to you[m
+2013-01-06 23:10:43 [INFO] [Tekkit] Yinsano: then I have time[m
+2013-01-06 23:11:09 [INFO] [Tekkit] H4ZM4T: so this is your magic machine[m
+2013-01-06 23:11:25 [INFO] [Tekkit] Yinsano: Not really[m
+2013-01-06 23:12:36 [INFO] [Tekkit] Yinsano: this is more to scare karl nest time he logs on[m
+2013-01-06 23:12:47 [INFO] [Tekkit] H4ZM4T: ooooh[m
+2013-01-06 23:12:52 [INFO] [Tekkit] H4ZM4T: what does it do?[m
+2013-01-06 23:13:35 [INFO] [Tekkit] Yinsano: Currently, it moves in an upwards Direction[m
+2013-01-06 23:14:01 [INFO] [Tekkit] H4ZM4T has left the game[m
+2013-01-06 23:14:32 [INFO] [Tekkit] H4ZM4T has joined the game[m
+2013-01-06 23:15:34 [INFO] [Tekkit] Yinsano: hmm?[m
+2013-01-06 23:15:48 [INFO] [Tekkit] H4ZM4T: hmmm?[m
+2013-01-06 23:16:31 [INFO] [Tekkit] Yinsano: Wondering as to potential Colouration[m
+2013-01-06 23:16:43 [INFO] [Tekkit] H4ZM4T: what does this thing do[m
+2013-01-06 23:16:50 [INFO] [Tekkit] H4ZM4T: wait a sec[m
+2013-01-06 23:16:55 [INFO] [Tekkit] H4ZM4T: is this a mssile bay silo?[m
+2013-01-06 23:17:32 [INFO] [Tekkit] Yinsano: ...maybe?[m
+2013-01-06 23:17:47 [INFO] [Tekkit] H4ZM4T has left the game[m
+2013-01-06 23:36:14 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 23:36:28 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-06 23:36:49 [INFO] [Tekkit] Yinsano: What is the curren maximum size for a frame Verhicle?[m
+2013-01-06 23:37:56 [INFO] [Tekkit] Yinsano: AAAURGH![m
+2013-01-06 23:44:24 [INFO] [Static] adrianjboyer has joined the game[m
+2013-01-06 23:46:35 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-06 23:46:46 [INFO] [Tekkit] Yinsano: Hey[m
+2013-01-06 23:46:48 [INFO] [Tekkit] lluoc: hey[m
+2013-01-06 23:47:06 [INFO] [Tekkit] Yinsano: What is the Upper limit on moving frames?[m
+2013-01-06 23:47:22 [INFO] [Tekkit] lluoc: I don't know. I haven't really mesed with them before.[m
+2013-01-06 23:47:31 [INFO] [Tekkit] lluoc: Taylor would be the one to ask[m
+2013-01-06 23:48:13 [INFO] [Tekkit] lluoc: want me to see if I can get him to come on?[m
+2013-01-06 23:48:42 [INFO] [Tekkit] Yinsano: lemme check steam[m
+2013-01-06 23:49:21 [INFO] [Tekkit] Yinsano: He isn't on steam, what was your plan?[m
+2013-01-06 23:49:35 [INFO] [Tekkit] lluoc: facebook. he's active but he might not be online.[m
+2013-01-06 23:49:45 [INFO] [Tekkit] lluoc: also I should really set up a steam id.[m
+2013-01-06 23:50:32 [INFO] [Tekkit] lluoc: and its his phone that is active....[m
+2013-01-06 23:50:40 [INFO] [Tekkit] lluoc: also it is scary that I can find that out.[m
+2013-01-06 23:50:47 [INFO] [Tekkit] lluoc: Have you checked the wiki?[m
+2013-01-06 23:51:07 [INFO] [Tekkit] Yinsano: I think Default is 1000[m
+2013-01-06 23:51:29 [INFO] [Tekkit] lluoc: hmm, let me check somethign first[m
+2013-01-06 23:53:56 [INFO] [Tekkit] H4ZM4T has joined the game[m
+2013-01-06 23:54:13 [INFO] [Tekkit] lluoc: hey[m
+2013-01-06 23:54:37 [INFO] [Tekkit] lluoc: Yinano, there might be an option that I can set but I can't find it[m
+2013-01-06 23:54:48 [INFO] [Tekkit] lluoc: My next step would be to look through the source[m
+2013-01-06 23:54:54 [INFO] [Tekkit] Yinsano: I think it's in a config file[m
+2013-01-06 23:55:07 [INFO] [Tekkit] lluoc: can't find a reference[m
+2013-01-06 23:55:10 [INFO] [Tekkit] lluoc: also hey...[m
+2013-01-06 23:55:35 [INFO] [Tekkit] lluoc: Nelly: Building a 'build everything' facility[m
+2013-01-06 23:55:45 [INFO] [Tekkit] lluoc: ender chests remove the lag[m
+2013-01-06 23:56:09 [INFO] [Tekkit] lluoc: Yinsano: there was nothing in the configs that I looked at but it is possible that they are[m
+2013-01-06 23:56:11 [INFO] [Tekkit] lluoc: defaulting[m
+2013-01-06 23:56:35 [INFO] [Tekkit] lluoc: I'll have a look later. Is it likely that we will need more than 1000?[m
+2013-01-06 23:56:55 [INFO] [Tekkit] Yinsano: "The Frame Motor can, by default, move a maximum of 1,000 linked blocks. "[m
+2013-01-06 23:56:57 [INFO] [Tekkit] H4ZM4T: is it me or is the server laaaaaaging[m
+2013-01-06 23:57:08 [INFO] [Tekkit] lluoc: I'm fine lag wise[m
+2013-01-06 23:57:13 [INFO] [Tekkit] Yinsano: "To modify the max block limit, change the "linksize" value in the redstone configuration file: "[m
+2013-01-06 23:57:23 [INFO] [Tekkit] Yinsano: "AppDataRoaming.techniclaunchertekkitredpowerredpower.cfg"[m
+2013-01-06 23:57:44 [INFO] [Tekkit] lluoc: seriously redpower. config files should bein the /config directory[m
+2013-01-06 23:57:45 [INFO] [Tekkit] Yinsano: For some builds, yes[m
+2013-01-06 23:58:39 [INFO] [Tekkit] lluoc: yep, it's set to 1000[m
+2013-01-06 23:58:45 [INFO] [Tekkit] lluoc: need me to increase it?[m
+2013-01-06 23:59:01 [INFO] [Tekkit] lluoc: nelly, what are you doing?[m
+2013-01-06 23:59:17 [INFO] [Tekkit] lluoc: or more, where are you?[m
+2013-01-07 00:01:22 [INFO] [Tekkit] Yinsano: I would Appreciate Larger frame Verhicles[m
+2013-01-07 00:01:35 [INFO] [Tekkit] lluoc: also nelly, congratulations. Your presnece on this server in part warrented extending the max[m
+2013-01-07 00:01:41 [INFO] [Tekkit] lluoc: force feild distances[m
+2013-01-07 00:01:55 [INFO] [Tekkit] Yinsano: But am currently unable to estimate the nessisarry size[m
+2013-01-07 00:02:03 [INFO] [Tekkit] lluoc: Larger frame verhicles?[m
+2013-01-07 00:02:50 [INFO] [Tekkit] lluoc: I haven't touched frames yet soo...[m
+2013-01-07 00:05:05 [INFO] [Tekkit] lluoc: nelly, stop with the tping[m
+2013-01-07 00:05:14 [INFO] [Tekkit] H4ZM4T: I am just showing clare tekkit[m
+2013-01-07 00:05:21 [INFO] [Tekkit] lluoc: ... ok[m
+2013-01-07 00:05:28 [INFO] [Tekkit] H4ZM4T: she is pouting and saying vanilla is better[m
+2013-01-07 00:05:28 [INFO] [Tekkit] lluoc: as in clarebel?[m
+2013-01-07 00:05:32 [INFO] [Tekkit] H4ZM4T: da[m
+2013-01-07 00:05:38 [INFO] [Tekkit] lluoc: show them mine then[m
+2013-01-07 00:06:07 [INFO] [Tekkit] lluoc: again[m
+2013-01-07 00:06:15 [INFO] [Tekkit] H4ZM4T: where is the force field?[m
+2013-01-07 00:06:51 [INFO] [Tekkit] lluoc: go look at the bottom half[m
+2013-01-07 00:07:17 [INFO] [Tekkit] H4ZM4T: wow[m
+2013-01-07 00:09:14 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 00:09:21 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 00:12:58 [INFO] [Tekkit] lluoc: scaffolding: the method nelly uses to get people interested in tekkit[m
+2013-01-07 00:13:14 [INFO] [Tekkit] H4ZM4T: IT IS REALLY COOL[m
+2013-01-07 00:13:18 [INFO] [Tekkit] H4ZM4T: FUCK YOU[m
+2013-01-07 00:13:35 [INFO] [Tekkit] lluoc: hey, I wasn't complaining. It worked on me[m
+2013-01-07 00:13:38 [INFO] [Tekkit] lluoc: didn't it[m
+2013-01-07 00:13:41 [INFO] [Tekkit] Yinsano: It is, but then you learn to fly[m
+2013-01-07 00:14:05 [INFO] [Tekkit] lluoc: but untill you get the prequisite 500 or so diamonds....[m
+2013-01-07 00:14:20 [INFO] [Tekkit] H4ZM4T: its a stack[m
+2013-01-07 00:14:28 [INFO] [Tekkit] lluoc: is that all[m
+2013-01-07 00:14:49 [INFO] [Tekkit] H4ZM4T: wrong mode[m
+2013-01-07 00:14:53 [INFO] [Tekkit] lluoc: heh, ok  I was joking. dark matter armour is only 408 diamonds after all[m
+2013-01-07 00:16:41 [INFO] [Static] adrianjboyer has left the game[m
+2013-01-07 00:19:27 [INFO] [Tekkit] lluoc: nelly, if it helps I'll allow you to set off a nuke somewhere[m
+2013-01-07 00:19:37 [INFO] [Tekkit] H4ZM4T: one step ahead of you[m
+2013-01-07 00:19:50 [INFO] [Tekkit] lluoc: you know, I thought you would be[m
+2013-01-07 00:23:07 [INFO] [Tekkit] H4ZM4T has left the game[m
+2013-01-07 00:30:01 [INFO] [Tekkit] lluoc: FUUUU[m
+2013-01-07 00:30:19 [INFO] [Tekkit] Yinsano: ??[m
+2013-01-07 00:30:20 [INFO] [Tekkit] lluoc: I was uing mercurials eye to transmute my carfuly shaped room into stone brickt[m
+2013-01-07 00:30:38 [INFO] [Tekkit] lluoc: and then somehow in the middle of this it swapped over to my redmatter hammer[m
+2013-01-07 00:30:44 [INFO] [Tekkit] lluoc: which was fully charged...[m
+2013-01-07 00:45:37 [INFO] [Static] H4ZM4T has joined the game[m
+2013-01-07 00:47:02 [INFO] [Static] H4ZM4T: testing something[m
+2013-01-07 00:49:25 [INFO] [Tekkit] lluoc: ?[m
+2013-01-07 00:49:29 [INFO] [Static] H4ZM4T: nooothign[m
+2013-01-07 00:50:02 [INFO] [Static] lluoc has joined the game[m
+2013-01-07 00:50:23 [INFO] [Static] lluoc: oh wow[m
+2013-01-07 00:50:41 [INFO] [Tekkit] Yinsano: ??[m
+2013-01-07 00:50:58 [INFO] [Static] lluoc: something in static. words cannot describe[m
+2013-01-07 00:51:14 [INFO] [Static] H4ZM4T: what you looking at?[m
+2013-01-07 00:51:21 [INFO] [Static] lluoc: the swag[m
+2013-01-07 00:51:45 [INFO] [Static] H4ZM4T: all hail to bass god[m
+2013-01-07 00:51:49 [INFO] [Static] H4ZM4T: praise him[m
+2013-01-07 00:51:57 [INFO] [Static] lluoc: well at least it's not founty[m
+2013-01-07 00:52:47 [INFO] [Tekkit] lluoc: DID SOMEBODY SAY FOUNTY?[m
+2013-01-07 00:52:53 [INFO] [Static] lluoc: ... no[m
+2013-01-07 00:52:57 [INFO] [Static] H4ZM4T: huehuehuehue[m
+2013-01-07 00:53:03 [INFO] [Static] H4ZM4T: you are talking to yourself[m
+2013-01-07 00:53:15 [INFO] [Static] lluoc: ... maybe[m
+2013-01-07 00:53:19 [INFO] [Static] H4ZM4T: huehuehuehuehue[m
+2013-01-07 00:53:31 [INFO] [Static] H4ZM4T: worht it[m
+2013-01-07 00:53:36 [INFO] [Static] lluoc: aww[m
+2013-01-07 00:53:39 [INFO] [Static] H4ZM4T: YOU ARE THE SERVER[m
+2013-01-07 00:53:42 [INFO] [Tekkit] lluoc: NO AWWING[m
+2013-01-07 00:53:57 [INFO] [Static] lluoc: ahhh[m
+2013-01-07 00:54:00 [INFO] [Static] H4ZM4T: you have lost it[m
+2013-01-07 00:54:05 [INFO] [Static] H4ZM4T: clearly[m
+2013-01-07 00:54:16 [INFO] [Static] H4ZM4T: you were simply turned mad by the pure awesome that is bass god[m
+2013-01-07 00:54:22 [INFO] [Static] H4ZM4T: YOU DID NOT PRAISE HIM[m
+2013-01-07 00:54:28 [INFO] [Tekkit] lluoc: CRY[m
+2013-01-07 00:54:34 [INFO] [Tekkit] lluoc: PRAISE[m
+2013-01-07 00:54:46 [INFO] [Tekkit] Yinsano: ??[m
+2013-01-07 00:54:50 [INFO] [Static] lluoc: ahhhh[m
+2013-01-07 00:54:53 [INFO] [Static] H4ZM4T: tehehehe[m
+2013-01-07 00:54:59 [INFO] [Static] H4ZM4T: I uh[m
+2013-01-07 00:55:04 [INFO] [Static] H4ZM4T: may have pushed you[m
+2013-01-07 00:55:09 [INFO] [Static] H4ZM4T: under orders of the bass god[m
+2013-01-07 00:55:11 [INFO] [Static] H4ZM4T: >_>[m
+2013-01-07 00:55:11 [INFO] [Static] lluoc: yeah, I noticed that[m
+2013-01-07 00:55:15 [INFO] [Static] H4ZM4T: <_<[m
+2013-01-07 00:55:42 [INFO] [Static] lluoc: have fun[m
+2013-01-07 00:55:46 [INFO] [Static] H4ZM4T: ?[m
+2013-01-07 00:55:52 [INFO] [Static] H4ZM4T: I was already in normal mode[m
+2013-01-07 00:55:53 [INFO] [Static] lluoc: try breaking a block[m
+2013-01-07 00:56:01 [INFO] [Static] H4ZM4T: OH YOU SON OF A BITCH[m
+2013-01-07 00:56:01 [INFO] [Static] lluoc: no, that's survival mode[m
+2013-01-07 00:56:09 [INFO] [Static] lluoc: MWHAHAHA[m
+2013-01-07 00:56:24 [INFO] [Tekkit] Yinsano: ??[m
+2013-01-07 00:56:32 [INFO] [Tekkit] Yinsano: Adventure time?[m
+2013-01-07 00:56:35 [INFO] [Static] lluoc: I set his gamemode to adventure[m
+2013-01-07 00:56:52 [INFO] [Static] H4ZM4T: DICKS[m
+2013-01-07 00:56:58 [INFO] [Static] H4ZM4T: two can play at that[m
+2013-01-07 00:57:06 [INFO] [Static] H4ZM4T: ehehehe[m
+2013-01-07 00:57:08 [INFO] [Static] lluoc: nope, only one[m
+2013-01-07 00:57:09 [INFO] [Static] H4ZM4T: was waiting for that[m
+2013-01-07 00:57:16 [INFO] [Static] H4ZM4T: remember that time when I banned you[m
+2013-01-07 00:57:18 [INFO] [Static] lluoc: console access sucks doesn't it[m
+2013-01-07 00:57:21 [INFO] [Static] lluoc: oh yeah[m
+2013-01-07 00:57:25 [INFO] [Static] H4ZM4T: and we realised that there was no unban command[m
+2013-01-07 00:57:34 [INFO] [Static] H4ZM4T: HAH[m
+2013-01-07 00:57:38 [INFO] [Static] H4ZM4T: you failed again[m
+2013-01-07 00:57:43 [INFO] [Static] H4ZM4T: that is what ahppened last time[m
+2013-01-07 00:58:00 [INFO] [Static] lluoc: yes, for some reasopn I put a 'say' in frount of the '/ban'[m
+2013-01-07 00:58:08 [INFO] [Static] lluoc: how do I keep doing that mistake[m
+2013-01-07 00:58:21 [INFO] [Tekkit] Yinsano: Have you been playing ss13?[m
+2013-01-07 00:58:22 [INFO] [Static] lluoc: op H4ZM4T[m
+2013-01-07 00:58:29 [INFO] [Static] H4ZM4T: ss13?[m
+2013-01-07 00:58:29 [INFO] [Static] lluoc: ss13?[m
+2013-01-07 00:58:34 [INFO] [Static] H4ZM4T: you failed to op me[m
+2013-01-07 00:58:36 [INFO] [Static] H4ZM4T: gorram it[m
+2013-01-07 00:58:37 [INFO] [Tekkit] lluoc: ss13[m
+2013-01-07 00:58:49 [INFO] [Tekkit] Yinsano: Space Station 13[m
+2013-01-07 00:58:57 [INFO] [Static] H4ZM4T: nope[m
+2013-01-07 00:59:01 [INFO] [Static] lluoc: oh, no but I have heard of it somewhere[m
+2013-01-07 01:00:04 [INFO] [Static] lluoc has left the game[m
+2013-01-07 01:01:02 [INFO] [Static] H4ZM4T: lluoc[m
+2013-01-07 01:01:05 [INFO] [Static] H4ZM4T: come look at this[m
+2013-01-07 01:01:08 [INFO] [Tekkit] lluoc: umm[m
+2013-01-07 01:01:24 [INFO] [Tekkit] lluoc: just a minute[m
+2013-01-07 01:01:33 [INFO] [Static] H4ZM4T: um[m
+2013-01-07 01:01:38 [INFO] [Static] H4ZM4T: fireworks aren't working anymore[m
+2013-01-07 01:01:40 [INFO] [Static] lluoc has joined the game[m
+2013-01-07 01:02:10 [INFO] [Static] H4ZM4T: these should be asploding[m
+2013-01-07 01:02:14 [INFO] [Static] H4ZM4T: but they aren't[m
+2013-01-07 01:02:22 [INFO] [Static] H4ZM4T: hrmm[m
+2013-01-07 01:02:27 [INFO] [Static] lluoc: I don't know how to use them...[m
+2013-01-07 01:02:27 [INFO] [Static] H4ZM4T: they have lost their rocket data[m
+2013-01-07 01:02:38 [INFO] [Static] H4ZM4T: they no longer have their properties[m
+2013-01-07 01:02:40 [INFO] [Static] lluoc: no console output[m
+2013-01-07 01:03:17 [INFO] [Static] lluoc: odd. have you tried to make a new one?[m
+2013-01-07 01:03:36 [INFO] [Static] H4ZM4T: doing so now[m
+2013-01-07 01:03:58 [INFO] [Tekkit] lluoc: also, apparently all microblocks are considured transpearant[m
+2013-01-07 01:04:18 [INFO] [Tekkit] lluoc: so you can put a tourch below a cover and light comes through, but the wall[m
+2013-01-07 01:04:22 [INFO] [Tekkit] lluoc: is unbroken[m
+2013-01-07 01:05:31 [INFO] [Static] H4ZM4T: come to me now[m
+2013-01-07 01:05:48 [INFO] [Static] lluoc: oh wow[m
+2013-01-07 01:05:57 [INFO] [Static] lluoc: pretty[m
+2013-01-07 01:06:15 [INFO] [Static] lluoc: outside?[m
+2013-01-07 01:06:23 [INFO] [Static] H4ZM4T: gimme a sec[m
+2013-01-07 01:07:36 [INFO] [Static] H4ZM4T: now these[m
+2013-01-07 01:07:39 [INFO] [Static] H4ZM4T: outside[m
+2013-01-07 01:07:52 [INFO] [Static] lluoc: wait[m
+2013-01-07 01:09:11 [INFO] [Static] H4ZM4T: creeperfireworks[m
+2013-01-07 01:09:12 [INFO] [Static] lluoc: all I can thing is[m
+2013-01-07 01:09:15 [INFO] [Static] lluoc: pew pew pew[m
+2013-01-07 01:09:34 [INFO] [Static] lluoc: where did hte creepre go?[m
+2013-01-07 01:09:39 [INFO] [Static] H4ZM4T: despawned[m
+2013-01-07 01:09:49 [INFO] [Static] lluoc: aww... wait, did you put it in there?[m
+2013-01-07 01:10:06 [INFO] [Static] H4ZM4T: I got him into there yes[m
+2013-01-07 01:10:17 [INFO] [Static] lluoc: with an egg?[m
+2013-01-07 01:10:25 [INFO] [Static] H4ZM4T: it was a test[m
+2013-01-07 01:10:33 [INFO] [Static] H4ZM4T: how does babby stop rain[m
+2013-01-07 01:10:53 [INFO] [Static] lluoc: toggledownfall[m
+2013-01-07 01:10:54 [INFO] [Static] H4ZM4T: also WHY DO THE SLIMES HAVE TO MAKE SUCH AN UNHOLY NOISE[m
+2013-01-07 01:11:01 [INFO] [Static] lluoc: heh heh heh[m
+2013-01-07 01:11:11 [INFO] [Static] lluoc: what does it remind you off?[m
+2013-01-07 01:11:16 [INFO] [Static] H4ZM4T: we all know[m
+2013-01-07 01:11:25 [INFO] [Static] lluoc: slime of course[m
+2013-01-07 01:11:32 [INFO] [Static] H4ZM4T: to quote clare[m
+2013-01-07 01:11:39 [INFO] [Static] H4ZM4T: the sound of fisting an oyster[m
+2013-01-07 01:11:54 [INFO] [Static] lluoc: yeah, it does sound like that[m
+2013-01-07 01:12:04 [INFO] [Static] lluoc: why is slime up here anyway?[m
+2013-01-07 01:12:42 [INFO] [Static] H4ZM4T: lluoc[m
+2013-01-07 01:12:43 [INFO] [Static] H4ZM4T: come here[m
+2013-01-07 01:12:50 [INFO] [Static] lluoc: also someone needs to tell them about jungle trees. their tree farm is still brich[m
+2013-01-07 01:13:03 [INFO] [Static] H4ZM4T: flick the switch[m
+2013-01-07 01:13:13 [INFO] [Static] lluoc: ha[m
+2013-01-07 01:13:25 [INFO] [Static] lluoc: needs a oressure plate[m
+2013-01-07 01:13:38 [INFO] [Static] H4ZM4T: they didn't want the trees to be too tall[m
+2013-01-07 01:13:49 [INFO] [Static] lluoc: but the wood output...[m
+2013-01-07 01:13:53 [INFO] [Static] H4ZM4T: hehe[m
+2013-01-07 01:13:54 [INFO] [Static] H4ZM4T: also[m
+2013-01-07 01:14:05 [INFO] [Static] lluoc: are they makein a secrte door under the throne?[m
+2013-01-07 01:14:13 [INFO] [Static] H4ZM4T: wait[m
+2013-01-07 01:14:14 [INFO] [Static] H4ZM4T: lluoc[m
+2013-01-07 01:14:19 [INFO] [Static] H4ZM4T: punch me in normal mode[m
+2013-01-07 01:14:36 [INFO] [Static] H4ZM4T: huh[m
+2013-01-07 01:14:40 [INFO] [Static] lluoc: ?[m
+2013-01-07 01:14:43 [INFO] [Static] lluoc: I got hit[m
+2013-01-07 01:14:45 [INFO] [Static] H4ZM4T: you are supposed to get damaged[m
+2013-01-07 01:14:47 [INFO] [Static] H4ZM4T: yay[m
+2013-01-07 01:14:49 [INFO] [Static] H4ZM4T: it works[m
+2013-01-07 01:14:51 [INFO] [Static] H4ZM4T: thorns[m
+2013-01-07 01:14:52 [INFO] [Static] H4ZM4T: :D[m
+2013-01-07 01:14:57 [INFO] [Static] lluoc: new enchantmet?[m
+2013-01-07 01:15:03 [INFO] [Static] H4ZM4T: wrecks the armor really quickly though'[m
+2013-01-07 01:15:05 [INFO] [Static] lluoc: oww[m
+2013-01-07 01:15:10 [INFO] [Static] H4ZM4T: look at enchanting books[m
+2013-01-07 01:15:29 [INFO] [Static] H4ZM4T: you can add lots of enchants to a single item at the cost of levels[m
+2013-01-07 01:16:01 [INFO] [Static] lluoc: I've read through them[m
+2013-01-07 01:16:30 [INFO] [Static] lluoc: wait, you play on survival ?[m
+2013-01-07 01:17:13 [INFO] [Static] H4ZM4T: damit[m
+2013-01-07 01:17:17 [INFO] [Static] lluoc: ?[m
+2013-01-07 01:17:18 [INFO] [Static] H4ZM4T: toy are back in creative[m
+2013-01-07 01:17:25 [INFO] [Static] H4ZM4T: I put in arrows[m
+2013-01-07 01:17:26 [INFO] [Static] lluoc: ?[m
+2013-01-07 01:17:51 [INFO] [Static] lluoc: that dog gives 0 shits[m
+2013-01-07 01:17:59 [INFO] [Static] H4ZM4T: what we were saying[m
+2013-01-07 01:18:11 [INFO] [Static] H4ZM4T: so uh[m
+2013-01-07 01:18:12 [INFO] [Static] H4ZM4T: yeah[m
+2013-01-07 01:18:14 [INFO] [Static] H4ZM4T: fireworks[m
+2013-01-07 01:18:26 [INFO] [Static] lluoc: also this is really damn big[m
+2013-01-07 01:18:35 [INFO] [Static] H4ZM4T: THAT IS WHAT SHE SAID[m
+2013-01-07 01:18:39 [INFO] [Static] lluoc: sigh[m
+2013-01-07 01:19:08 [INFO] [Static] lluoc: odd water effect[m
+2013-01-07 01:19:14 [INFO] [Static] lluoc: hey cause it to be clipped away[m
+2013-01-07 01:19:14 [INFO] [Static] H4ZM4T: who is up for building the sydney harbor bridge[m
+2013-01-07 01:19:27 [INFO] [Static] lluoc: naaa[m
+2013-01-07 01:19:40 [INFO] [Static] lluoc: I have a factory to build[m
+2013-01-07 01:20:39 [INFO] [Static] H4ZM4T: you made star ones[m
+2013-01-07 01:20:42 [INFO] [Static] H4ZM4T: Woah[m
+2013-01-07 01:20:48 [INFO] [Static] H4ZM4T: come here[m
+2013-01-07 01:20:50 [INFO] [Static] H4ZM4T: and watch[m
+2013-01-07 01:20:54 [INFO] [Static] H4ZM4T: come here[m
+2013-01-07 01:20:57 [INFO] [Static] H4ZM4T: and look down[m
+2013-01-07 01:21:13 [INFO] [Static] lluoc: the water?[m
+2013-01-07 01:21:16 [INFO] [Static] lluoc: oh wow[m
+2013-01-07 01:22:19 [INFO] [Static] H4ZM4T: also[m
+2013-01-07 01:22:22 [INFO] [Static] H4ZM4T: fuck the witherr[m
+2013-01-07 01:22:42 [INFO] [Static] lluoc: err, why are there slime on the top level. did the minimum spawn hehght change?[m
+2013-01-07 01:22:47 [INFO] [Static] lluoc: Yet to see it actualy[m
+2013-01-07 01:22:56 [INFO] [Static] H4ZM4T: all swamp is a spawning biome for them now[m
+2013-01-07 01:23:11 [INFO] [Static] lluoc: but I'd amaging that it woulf not be very nice[m
+2013-01-07 01:23:14 [INFO] [Static] H4ZM4T: clare was asking if we could change the biome here because that noise is fucking annopying[m
+2013-01-07 01:23:19 [INFO] [Static] lluoc: really.... oh god, my house[m
+2013-01-07 01:23:27 [INFO] [Static] H4ZM4T: yyyuuuup[m
+2013-01-07 01:24:04 [INFO] [Static] lluoc: hmm. I should really make that mod. You've been asking for it fforever[m
+2013-01-07 01:24:08 [INFO] [Static] H4ZM4T: also, I shall now make you a set of armor[m
+2013-01-07 01:25:15 [INFO] [Static] lluoc: punch enchantment. Don't remember htat one[m
+2013-01-07 01:26:53 [INFO] [Static] H4ZM4T: your new armor sir[m
+2013-01-07 01:26:55 [INFO] [Static] H4ZM4T: :D[m
+2013-01-07 01:27:05 [INFO] [Static] H4ZM4T: (read the names)[m
+2013-01-07 01:27:09 [INFO] [Static] H4ZM4T: the shoes are behind you[m
+2013-01-07 01:27:12 [INFO] [Static] lluoc: ... you *had* to name them didnet you[m
+2013-01-07 01:27:23 [INFO] [Static] H4ZM4T: mmaaaaaybe[m
+2013-01-07 01:27:34 [INFO] [Static] lluoc: MOD POWERS ACTIVATE[m
+2013-01-07 01:27:34 [INFO] [Static] H4ZM4T: and had to make them pink[m
+2013-01-07 01:27:48 [INFO] [Static] H4ZM4T: not as bad as the sword that was wandering around[m
+2013-01-07 01:27:50 [INFO] [Static] lluoc: heh[m
+2013-01-07 01:27:55 [INFO] [Static] lluoc: ?[m
+2013-01-07 01:27:58 [INFO] [Static] lluoc: wait[m
+2013-01-07 01:27:58 [INFO] [Static] H4ZM4T: uht[m
+2013-01-07 01:28:03 [INFO] [Static] H4ZM4T: you wouldn't like the name[m
+2013-01-07 01:28:06 [INFO] [Static] H4ZM4T: it was[m
+2013-01-07 01:28:08 [INFO] [Static] lluoc: it was called wandering around?[m
+2013-01-07 01:28:16 [INFO] [Static] H4ZM4T: the "anal penetrator 69"[m
+2013-01-07 01:28:21 [INFO] [Static] lluoc: sigh[m
+2013-01-07 01:28:24 [INFO] [Static] H4ZM4T: under request of the bass god[m
+2013-01-07 01:28:57 [INFO] [Static] H4ZM4T: new sword[m
+2013-01-07 01:28:58 [INFO] [Static] lluoc: to check, what are you refering to as the bass god?[m
+2013-01-07 01:29:07 [INFO] [Static] H4ZM4T: its a looooong story[m
+2013-01-07 01:29:09 [INFO] [Static] lluoc: BAH[m
+2013-01-07 01:29:16 [INFO] [Static] H4ZM4T: twas the creeper in the ice, well....that was its avatar[m
+2013-01-07 01:29:18 [INFO] [Static] lluoc: I AM FOUNTY'S DESTROYER[m
+2013-01-07 01:29:22 [INFO] [Static] H4ZM4T: he got bored and left evidently[m
+2013-01-07 01:29:25 [INFO] [Static] lluoc: NO GUARDIAN[m
+2013-01-07 01:29:44 [INFO] [Static] lluoc: noooo[m
+2013-01-07 01:29:46 [INFO] [Static] H4ZM4T: I am on pedobears lap[m
+2013-01-07 01:29:50 [INFO] [Static] H4ZM4T: COME TO PAPA[m
+2013-01-07 01:29:51 [INFO] [Static] lluoc: now you are invundeable[m
+2013-01-07 01:30:01 [INFO] [Static] lluoc: please stop that[m
+2013-01-07 01:30:06 [INFO] [Static] H4ZM4T: at least I can english[m
+2013-01-07 01:30:09 [INFO] [Static] lluoc: it loops like you are lapdancing peadobear[m
+2013-01-07 01:30:25 [INFO] [Static] lluoc: oh for fucks sake[m
+2013-01-07 01:30:33 [INFO] [Static] lluoc: stop that[m
+2013-01-07 01:31:07 [INFO] [Static] H4ZM4T: um[m
+2013-01-07 01:31:10 [INFO] [Static] H4ZM4T: he gave me this[m
+2013-01-07 01:31:15 [INFO] [Static] lluoc: that didn't help[m
+2013-01-07 01:31:22 [INFO] [Static] lluoc: SIGH[m
+2013-01-07 01:31:53 [INFO] [Static] H4ZM4T: don't minde me[m
+2013-01-07 01:32:04 [INFO] [Static] H4ZM4T: just masturbating furiously in the corner[m
+2013-01-07 01:32:13 [INFO] [Static] lluoc: with an anvil on your head[m
+2013-01-07 01:32:49 [INFO] [Static] lluoc: I thkn anvils are my new favorate item[m
+2013-01-07 01:33:08 [INFO] [Static] H4ZM4T: OH I AM TARPS[m
+2013-01-07 01:33:48 [INFO] [Static] H4ZM4T: can you hear thaT?[m
+2013-01-07 01:34:02 [INFO] [Static] lluoc: yes...[m
+2013-01-07 01:34:09 [INFO] [Static] lluoc: .... fuck you[m
+2013-01-07 01:34:21 [INFO] [Static] lluoc: wait, how were you doing that?[m
+2013-01-07 01:34:26 [INFO] [Static] H4ZM4T: :D[m
+2013-01-07 01:34:26 [INFO] [Static] lluoc: ohhh[m
+2013-01-07 01:34:32 [INFO] [Static] lluoc: ewww[m
+2013-01-07 01:34:34 [INFO] [Static] H4ZM4T: I have a way with pedobear[m
+2013-01-07 01:34:38 [INFO] [Static] H4ZM4T: that only I have[m
+2013-01-07 01:34:42 [INFO] [Static] lluoc: really, milk makes that sound[m
+2013-01-07 01:34:49 [INFO] [Static] H4ZM4T: pedobear milk does[m
+2013-01-07 01:34:51 [INFO] [Tekkit] Yinsano: ??[m
+2013-01-07 01:34:56 [INFO] [Tekkit] Yinsano: the fuck?[m
+2013-01-07 01:35:10 [INFO] [Tekkit] lluoc: don't ask me, I have no idea what the fuck the yare dong[m
+2013-01-07 01:35:13 [INFO] [Tekkit] lluoc: just ignore them[m
+2013-01-07 01:35:20 [INFO] [Static] H4ZM4T: I am in tears[m
+2013-01-07 01:35:30 [INFO] [Static] lluoc: drinking pedobears miilk.... hmm[m
+2013-01-07 01:35:41 [INFO] [Static] lluoc: hmmm...[m
+2013-01-07 01:35:58 [INFO] [Static] H4ZM4T: so[m
+2013-01-07 01:36:39 [INFO] [Static] lluoc: ok[m
+2013-01-07 01:36:46 [INFO] [Static] lluoc: try sucking it agian[m
+2013-01-07 01:37:05 [INFO] [Static] H4ZM4T: wait[m
+2013-01-07 01:37:07 [INFO] [Static] H4ZM4T: one better[m
+2013-01-07 01:37:29 [INFO] [Static] lluoc: oh god[m
+2013-01-07 01:37:51 [INFO] [Static] H4ZM4T: I am playing with his dongle[m
+2013-01-07 01:38:07 [INFO] [Static] H4ZM4T: WOW[m
+2013-01-07 01:38:11 [INFO] [Static] H4ZM4T: PEDOBEAR[m
+2013-01-07 01:38:18 [INFO] [Static] lluoc: sigh[m
+2013-01-07 01:38:22 [INFO] [Static] H4ZM4T: I DIDN'T KNOW YOUR COCK CAME FIREWORKS[m
+2013-01-07 01:38:32 [INFO] [Static] lluoc: that said, I'll allow this[m
+2013-01-07 01:39:35 [INFO] [Static] H4ZM4T: oh gods[m
+2013-01-07 01:39:37 [INFO] [Static] H4ZM4T: we broke you[m
+2013-01-07 01:39:47 [INFO] [Static] lluoc: ha[m
+2013-01-07 01:39:54 [INFO] [Static] lluoc: poor pedobear[m
+2013-01-07 01:40:00 [INFO] [Static] lluoc: better refill it[m
+2013-01-07 01:40:14 [INFO] [Static] H4ZM4T: wait[m
+2013-01-07 01:40:20 [INFO] [Static] H4ZM4T: I need to feed him something[m
+2013-01-07 01:40:30 [INFO] [Static] H4ZM4T: here[m
+2013-01-07 01:40:35 [INFO] [Static] H4ZM4T: have a little blue pill[m
+2013-01-07 01:40:41 [INFO] [Static] H4ZM4T: PING[m
+2013-01-07 01:40:43 [INFO] [Static] lluoc: hah hah hah[m
+2013-01-07 01:41:13 [INFO] [Static] H4ZM4T: he is literally cumming bukkets[m
+2013-01-07 01:42:01 [INFO] [Static] lluoc: oh.... ok, we need to do some wiring[m
+2013-01-07 01:43:08 [INFO] [Static] H4ZM4T: uh[m
+2013-01-07 01:43:15 [INFO] [Static] H4ZM4T: I can't find my screenshots[m
+2013-01-07 01:43:41 [INFO] [Static] H4ZM4T: I made them[m
+2013-01-07 01:43:49 [INFO] [Static] H4ZM4T: but minecraft isn't storing them where it is supposed to[m
+2013-01-07 01:43:50 [INFO] [Static] lluoc: I got some but....[m
+2013-01-07 01:43:58 [INFO] [Static] lluoc: roaming[m
+2013-01-07 01:43:59 [INFO] [Static] lluoc: ?[m
+2013-01-07 01:44:07 [INFO] [Static] H4ZM4T: nope[m
+2013-01-07 01:44:10 [INFO] [Static] H4ZM4T: old ones are there[m
+2013-01-07 01:44:13 [INFO] [Static] H4ZM4T: no new ones[m
+2013-01-07 01:44:23 [INFO] [Static] lluoc: damn[m
+2013-01-07 01:44:30 [INFO] [Static] lluoc: wait, new idea[m
+2013-01-07 01:44:41 [INFO] [Static] lluoc: anvil beind nose[m
+2013-01-07 01:44:45 [INFO] [Static] lluoc: piston behind that[m
+2013-01-07 01:45:01 [INFO] [Static] lluoc: then the leaver is pulled, nose pulls back, piston falls on lap[m
+2013-01-07 01:46:15 [INFO] [Static] lluoc: oh[m
+2013-01-07 01:46:23 [INFO] [Static] lluoc: aww, they can't push anvils[m
+2013-01-07 01:47:24 [INFO] [Static] H4ZM4T: pistons should be able to push anvils[m
+2013-01-07 01:48:33 [INFO] [Static] lluoc: we could always make a chris hanson...[m
+2013-01-07 01:51:36 [INFO] [Tekkit] Yinsano: you guys getting any lag?[m
+2013-01-07 01:52:12 [INFO] [Tekkit] lluoc: nope[m
+2013-01-07 01:57:08 [INFO] [Static] lluoc: heh heh heh... well that's on the intenret now[m
+2013-01-07 01:58:35 [INFO] [Tekkit] Yinsano has left the game[m
+2013-01-07 02:03:09 [INFO] [Static] H4ZM4T: this is cool[m
+2013-01-07 02:03:14 [INFO] [Static] lluoc: i know[m
+2013-01-07 02:03:32 [INFO] [Static] H4ZM4T: the noise from a stack and breaking the bottom one[m
+2013-01-07 02:03:46 [INFO] [Static] lluoc: yeah[m
+2013-01-07 02:03:52 [INFO] [Static] H4ZM4T: as it trails into the distance[m
+2013-01-07 02:04:05 [INFO] [Static] H4ZM4T: wait[m
+2013-01-07 02:04:09 [INFO] [Static] H4ZM4T: I want to try something[m
+2013-01-07 02:04:53 [INFO] [Static] H4ZM4T: now stand down here[m
+2013-01-07 02:06:12 [INFO] [Static] H4ZM4T: anyway[m
+2013-01-07 02:06:14 [INFO] [Static] H4ZM4T: I am off now[m
+2013-01-07 02:06:21 [INFO] [Static] lluoc: k, night[m
+2013-01-07 02:06:22 [INFO] [Static] H4ZM4T: have fun[m
+2013-01-07 02:06:31 [INFO] [Static] H4ZM4T has left the game[m
+2013-01-07 02:07:20 [INFO] [Static] lluoc has left the game[m
+2013-01-07 02:46:27 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 03:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 03:00:02 [INFO] [35;1m[Server] Starting backup[m
+2013-01-07 03:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 03:00:02 [INFO] CONSOLE: Forcing save..[m
+2013-01-07 03:00:02 [INFO] CONSOLE: Save complete.[m
+2013-01-07 03:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 03:00:02 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-07 03:00:36 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 03:00:36 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-07 03:00:36 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 03:00:36 [INFO] CONSOLE: Forcing save..[m
+2013-01-07 03:00:36 [INFO] CONSOLE: Save complete.[m
+2013-01-07 03:00:36 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 03:00:36 [INFO] [35;1m[Server] Backup complete[m
+2013-01-07 05:17:17 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 05:17:36 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 05:17:41 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 06:23:00 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 09:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 09:00:02 [INFO] [35;1m[Server] Starting backup[m
+2013-01-07 09:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 09:00:02 [INFO] CONSOLE: Forcing save..[m
+2013-01-07 09:00:02 [INFO] CONSOLE: Save complete.[m
+2013-01-07 09:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 09:00:02 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-07 09:00:38 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 09:00:38 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-07 09:00:38 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 09:00:38 [INFO] CONSOLE: Forcing save..[m
+2013-01-07 09:00:38 [INFO] CONSOLE: Save complete.[m
+2013-01-07 09:00:38 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 09:00:38 [INFO] [35;1m[Server] Backup complete[m
+2013-01-07 10:38:04 [INFO] [Static] adrianjboyer has joined the game[m
+2013-01-07 10:40:20 [INFO] [Static] adrianjboyer has left the game[m
+2013-01-07 11:09:55 [INFO] [Static] adrianjboyer has joined the game[m
+2013-01-07 11:14:09 [INFO] [Static] adrianjboyer has left the game[m
+2013-01-07 13:15:01 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 13:58:07 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 14:03:36 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 14:40:55 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 15:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 15:00:02 [INFO] [35;1m[Server] Starting backup[m
+2013-01-07 15:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 15:00:02 [INFO] CONSOLE: Forcing save..[m
+2013-01-07 15:00:02 [INFO] CONSOLE: Save complete.[m
+2013-01-07 15:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 15:00:02 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-07 15:00:37 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 15:00:37 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-07 15:00:37 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 15:00:37 [INFO] CONSOLE: Forcing save..[m
+2013-01-07 15:00:37 [INFO] CONSOLE: Save complete.[m
+2013-01-07 15:00:37 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 15:00:37 [INFO] [35;1m[Server] Backup complete[m
+2013-01-07 16:25:56 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 16:26:31 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 16:26:37 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 16:27:07 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 16:27:12 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 16:28:56 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 16:42:18 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 18:17:05 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 18:17:11 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 19:15:20 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 19:16:02 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 19:30:56 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 19:32:47 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 19:33:59 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 19:34:20 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 19:35:50 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 19:56:23 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 19:56:23 [INFO] [35;1m[Server] Starting backup[m
+2013-01-07 19:56:23 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 19:56:23 [INFO] CONSOLE: Forcing save..[m
+2013-01-07 19:56:23 [INFO] CONSOLE: Save complete.[m
+2013-01-07 19:56:23 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 19:56:23 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-07 19:59:37 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 19:59:37 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-07 19:59:37 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 19:59:37 [INFO] CONSOLE: Forcing save..[m
+2013-01-07 19:59:37 [INFO] CONSOLE: Save complete.[m
+2013-01-07 19:59:37 [INFO] Unknown command. Type "help" for help.[m
+2013-01-07 19:59:37 [INFO] [35;1m[Server] Backup complete[m
