@@ -2238,3 +2238,31 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.server.Packet
 2013-01-07 19:59:37 [INFO] CONSOLE: Save complete.[m
 2013-01-07 19:59:37 [INFO] Unknown command. Type "help" for help.[m
 2013-01-07 19:59:37 [INFO] [35;1m[Server] Backup complete[m
+2013-01-07 20:26:00 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 20:36:07 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 20:36:19 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 20:36:40 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 20:46:39 [SEVERE] [xServer] Malformed Packet
+2013-01-07 20:46:39 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2013-01-07 20:46:39 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2013-01-07 20:46:39 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2013-01-07 20:46:39 [INFO] [34;1m[xServer] Tekkit has disconnected[m
+2013-01-07 20:47:12 [INFO] [34;1m[xServer] Tekkit has connected[m
+2013-01-07 20:47:18 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 20:48:25 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 20:48:33 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 20:49:06 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 20:49:14 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 20:49:32 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 20:49:38 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 20:49:51 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 20:49:57 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 20:50:13 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 20:50:19 [INFO] [Tekkit] lluoc has joined the game[m
+2013-01-07 20:50:49 [INFO] [Tekkit] lluoc has left the game[m
+2013-01-07 20:52:29 [SEVERE] [xServer] Malformed Packet
+2013-01-07 20:52:29 [SEVERE] java.lang.ClassCastException: java.lang.String cannot be cast to java.util.HashMap
+2013-01-07 20:52:29 [SEVERE] 	at cbp.double0negative.xServer.client.Client.parse(Client.java:70)
+2013-01-07 20:52:29 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
+2013-01-07 20:52:29 [INFO] [34;1m[xServer] Tekkit has disconnected[m
+2013-01-07 20:52:47 [INFO] [34;1m[xServer] Tekkit has connected[m
