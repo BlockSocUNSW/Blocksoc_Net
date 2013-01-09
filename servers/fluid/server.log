@@ -1872,3 +1872,115 @@
 2013-01-07 20:52:29 [SEVERE] 	at cbp.double0negative.xServer.client.Client.run(Client.java:59)
 2013-01-07 20:52:29 [INFO] [34;1m[xServer] Tekkit has disconnected[m
 2013-01-07 20:52:47 [INFO] [34;1m[xServer] Tekkit has connected[m
+2013-01-08 02:25:22 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 02:25:22 [INFO] [35;1m[Server] Starting backup[m
+2013-01-08 02:25:22 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 02:25:22 [INFO] CONSOLE: Forcing save..[m
+2013-01-08 02:25:23 [INFO] CONSOLE: Save complete.[m
+2013-01-08 02:25:23 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 02:25:23 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-08 02:31:25 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 02:31:25 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-08 02:31:25 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 02:31:25 [INFO] CONSOLE: Forcing save..[m
+2013-01-08 02:31:25 [INFO] CONSOLE: Save complete.[m
+2013-01-08 02:31:25 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 02:31:25 [INFO] [35;1m[Server] Backup complete[m
+2013-01-08 14:23:31 [INFO] [Static] mebeme has joined the game[m
+2013-01-08 14:24:05 [INFO] [Static] mebeme has left the game[m
+2013-01-08 14:24:05 [INFO] [Static] mebeme has joined the game[m
+2013-01-08 14:26:01 [INFO] mebeme[/127.0.0.1:50133] logged in with entity id 10366 at ([world] 48.5, 68.62000000476837, 257.5)
+2013-01-08 14:26:01 [INFO] [Static] mebeme has left the game[m
+2013-01-08 14:26:17 [INFO] Connection reset
+2013-01-08 14:26:17 [INFO] mebeme lost connection: disconnect.quitting
+2013-01-08 14:26:39 [INFO] mebeme[/127.0.0.1:50141] logged in with entity id 11486 at ([world] 48.65450164210051, 66.9539999723434, 257.38221232173964)
+2013-01-08 14:26:39 [INFO] mebeme lost connection: disconnect.endOfStream
+2013-01-08 14:26:49 [INFO] mebeme[/127.0.0.1:50144] logged in with entity id 11516 at ([world] 48.65450164210051, 66.9539999723434, 257.38221232173964)
+2013-01-08 14:27:02 [INFO] Connection reset
+2013-01-08 14:27:02 [INFO] [Static] mebeme has joined the game[m
+2013-01-08 14:27:02 [INFO] mebeme lost connection: disconnect.endOfStream
+2013-01-08 14:27:46 [INFO] [Static] mebeme died[m
+2013-01-08 14:28:19 [INFO] [Static] mebeme has left the game[m
+2013-01-08 14:28:28 [INFO] [Tekkit] mebeme has joined the game[m
+2013-01-08 17:15:39 [INFO] [Tekkit] mebeme has left the game[m
+2013-01-08 17:20:15 [INFO] [Static] adrianjboyer has joined the game[m
+2013-01-08 17:34:55 [INFO] [Static] adrianjboyer has left the game[m
+2013-01-08 18:41:11 [INFO] [Static] clarebel has joined the game[m
+2013-01-08 18:43:49 [INFO] [Static] clarebel has left the game[m
+2013-01-08 20:53:57 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 20:53:57 [INFO] [35;1m[Server] Starting backup[m
+2013-01-08 20:53:57 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 20:53:57 [INFO] CONSOLE: Forcing save..[m
+2013-01-08 20:53:57 [INFO] CONSOLE: Save complete.[m
+2013-01-08 20:53:57 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 20:53:57 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-08 20:55:42 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 20:55:42 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-08 20:55:42 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 20:55:42 [INFO] CONSOLE: Forcing save..[m
+2013-01-08 20:55:42 [INFO] CONSOLE: Save complete.[m
+2013-01-08 20:55:42 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 20:55:42 [INFO] [35;1m[Server] Backup complete[m
+2013-01-08 21:00:01 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 21:00:01 [INFO] [35;1m[Server] Starting backup[m
+2013-01-08 21:00:01 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 21:00:01 [INFO] CONSOLE: Forcing save..[m
+2013-01-08 21:00:01 [INFO] CONSOLE: Save complete.[m
+2013-01-08 21:00:01 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 21:00:01 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-08 21:01:28 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 21:01:28 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-08 21:01:28 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 21:01:28 [INFO] CONSOLE: Forcing save..[m
+2013-01-08 21:01:28 [INFO] CONSOLE: Save complete.[m
+2013-01-08 21:01:28 [INFO] Unknown command. Type "help" for help.[m
+2013-01-08 21:01:28 [INFO] [35;1m[Server] Backup complete[m
+2013-01-09 03:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 03:00:02 [INFO] [35;1m[Server] Starting backup[m
+2013-01-09 03:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 03:00:02 [INFO] CONSOLE: Forcing save..[m
+2013-01-09 03:00:02 [INFO] CONSOLE: Save complete.[m
+2013-01-09 03:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 03:00:02 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-09 03:02:26 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 03:02:26 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-09 03:02:26 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 03:02:26 [INFO] CONSOLE: Forcing save..[m
+2013-01-09 03:02:26 [INFO] CONSOLE: Save complete.[m
+2013-01-09 03:02:26 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 03:02:26 [INFO] [35;1m[Server] Backup complete[m
+2013-01-09 09:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 09:00:02 [INFO] [35;1m[Server] Starting backup[m
+2013-01-09 09:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 09:00:02 [INFO] CONSOLE: Forcing save..[m
+2013-01-09 09:00:02 [INFO] CONSOLE: Save complete.[m
+2013-01-09 09:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 09:00:02 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-09 09:03:13 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 09:03:13 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-09 09:03:13 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 09:03:13 [INFO] CONSOLE: Forcing save..[m
+2013-01-09 09:03:13 [INFO] CONSOLE: Save complete.[m
+2013-01-09 09:03:13 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 09:03:13 [INFO] [35;1m[Server] Backup complete[m
+2013-01-09 13:34:18 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 13:34:18 [INFO] [35;1m[Server] Starting backup[m
+2013-01-09 13:34:18 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 13:34:18 [INFO] CONSOLE: Forcing save..[m
+2013-01-09 13:34:18 [INFO] CONSOLE: Save complete.[m
+2013-01-09 13:34:18 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 13:34:18 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-09 13:36:01 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 13:36:01 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-09 13:36:01 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 13:36:01 [INFO] CONSOLE: Forcing save..[m
+2013-01-09 13:36:01 [INFO] CONSOLE: Save complete.[m
+2013-01-09 13:36:01 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 13:36:01 [INFO] [35;1m[Server] Backup complete[m
+2013-01-09 13:43:42 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 13:43:42 [INFO] [35;1m[Server] Starting backup[m
+2013-01-09 13:43:42 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 13:43:42 [INFO] CONSOLE: Forcing save..[m
+2013-01-09 13:43:42 [INFO] CONSOLE: Save complete.[m
+2013-01-09 13:43:42 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 13:43:42 [INFO] CONSOLE: Disabled level saving..[m
