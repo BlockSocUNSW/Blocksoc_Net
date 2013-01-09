@@ -2012,3 +2012,93 @@
 2013-01-09 21:00:02 [INFO] CONSOLE: Save complete.[m
 2013-01-09 21:00:02 [INFO] Unknown command. Type "help" for help.[m
 2013-01-09 21:00:02 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-09 21:08:31 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 21:08:31 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-09 21:08:31 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 21:08:31 [INFO] CONSOLE: Forcing save..[m
+2013-01-09 21:08:31 [INFO] CONSOLE: Save complete.[m
+2013-01-09 21:08:31 [INFO] Unknown command. Type "help" for help.[m
+2013-01-09 21:08:31 [INFO] [35;1m[Server] Backup complete[m
+2013-01-09 21:48:17 [INFO] [Static] adrianjboyer has joined the game[m
+2013-01-09 21:48:30 [INFO] [Static] clarebel has joined the game[m
+2013-01-09 22:14:48 [INFO] [Static] clarebel died[m
+2013-01-09 22:22:14 [INFO] [Static] clarebel died[m
+2013-01-09 22:43:10 [INFO] [Static] clarebel died[m
+2013-01-09 23:09:22 [INFO] [Static] mebeme has joined the game[m
+2013-01-09 23:09:32 [INFO] [Static] adrianjboyer: hallo[m
+2013-01-09 23:09:34 [INFO] [Static] clarebel: hello[m
+2013-01-09 23:09:41 [INFO] [Static] mebeme: o/[m
+2013-01-09 23:09:51 [INFO] [Static] mebeme has left the game[m
+2013-01-09 23:09:51 [INFO] [Static] mebeme has joined the game[m
+2013-01-09 23:10:05 [INFO] [Static] mebeme: Whats your xyz?[m
+2013-01-09 23:10:55 [INFO] [Static] adrianjboyer: x1831 z-935[m
+2013-01-09 23:11:19 [INFO] [Static] mebeme: Okay, now how come it says I'm on fluid after I type /server static?[m
+2013-01-09 23:11:29 [INFO] [Static] mebeme: alternatly, what is the port for static[m
+2013-01-09 23:12:37 [INFO] [Static] adrianjboyer: port?[m
+2013-01-09 23:12:49 [INFO] [Static] mebeme: .. the thing after the colon in the IP[m
+2013-01-09 23:12:51 [INFO] [Static] adrianjboyer: no port[m
+2013-01-09 23:13:02 [INFO] [Static] adrianjboyer has left the game[m
+2013-01-09 23:13:08 [INFO] [Static] adrianjboyer has joined the game[m
+2013-01-09 23:13:20 [INFO] [Static] adrianjboyer: survival.blocksoc.net[m
+2013-01-09 23:13:24 [INFO] [Static] mebeme has left the game[m
+2013-01-09 23:13:45 [INFO] [Static] mebeme has joined the game[m
+2013-01-09 23:13:58 [INFO] [Static] mebeme has left the game[m
+2013-01-09 23:13:58 [INFO] [Static] mebeme has joined the game[m
+2013-01-09 23:14:02 [INFO] [Static] mebeme: Sigh[m
+2013-01-09 23:14:13 [INFO] [Static] adrianjboyer: now try it[m
+2013-01-09 23:14:16 [INFO] [Static] mebeme: I can't get off fluid[m
+2013-01-09 23:14:22 [INFO] adrianjboyer[/127.0.0.1:50928] logged in with entity id 11798 at ([world] 55.5, 70.62000000476837, 259.5)
+2013-01-09 23:14:22 [INFO] [Static] adrianjboyer has left the game[m
+2013-01-09 23:14:27 [INFO] [Static] mebeme has left the game[m
+2013-01-09 23:14:27 [INFO] [Static] mebeme has joined the game[m
+2013-01-09 23:14:37 [INFO] Connection reset
+2013-01-09 23:14:37 [INFO] [Static] adrianjboyer has joined the game[m
+2013-01-09 23:14:37 [INFO] adrianjboyer lost connection: disconnect.endOfStream
+2013-01-09 23:15:03 [INFO] [Static] adrianjboyer: are you in static?[m
+2013-01-09 23:15:08 [INFO] [Static] mebeme: Don't think so[m
+2013-01-09 23:15:19 [INFO] [Static] adrianjboyer: hold on[m
+2013-01-09 23:15:50 [INFO] [Static] H4ZM4T has joined the game[m
+2013-01-09 23:16:26 [INFO] H4ZM4T[/127.0.0.1:51005] logged in with entity id 12539 at ([world] 46.5, 67.62000000476837, 256.5)
+2013-01-09 23:16:26 [INFO] [Static] H4ZM4T has left the game[m
+2013-01-09 23:16:39 [INFO] <H4ZM4T> hrmmm[m
+2013-01-09 23:16:40 [INFO] <H4ZM4T> fluid is really empty[m
+2013-01-09 23:16:51 [INFO] H4ZM4T issued server command: /gamemode 1 h4zm4t
+2013-01-09 23:16:51 [INFO] H4ZM4T: Set own game mode to CREATIVE mode[m
+2013-01-09 23:16:53 [INFO] [Static] mebeme: I don't know how to Servers[m
+2013-01-09 23:17:02 [INFO] <H4ZM4T> type /server fluid[m
+2013-01-09 23:17:10 [INFO] mebeme[/127.0.0.1:51020] logged in with entity id 12903 at ([world] 49.69999998807907, 67.0, 255.42817986138692)
+2013-01-09 23:17:10 [INFO] [Static] mebeme has left the game[m
+2013-01-09 23:17:16 [INFO] <H4ZM4T> t /server hardcore[m
+2013-01-09 23:17:19 [INFO] <mebeme> Okay, my thing is bugged to fuck[m
+2013-01-09 23:17:23 [INFO] <H4ZM4T> t /server static[m
+2013-01-09 23:17:29 [INFO] Connection reset
+2013-01-09 23:17:29 [INFO] [Hardcore] mebeme has joined the game[m
+2013-01-09 23:17:29 [INFO] mebeme lost connection: disconnect.endOfStream
+2013-01-09 23:17:37 [INFO] [Hardcore] mebeme: ..[m
+2013-01-09 23:17:38 [INFO] <H4ZM4T> each puts you to the respective world[m
+2013-01-09 23:17:43 [INFO] [Static] mebeme has joined the game[m
+2013-01-09 23:17:43 [INFO] [Hardcore] mebeme has left the game[m
+2013-01-09 23:17:52 [INFO] [Static] mebeme: Okay, but now I have the fluid tag fo rme[m
+2013-01-09 23:18:02 [INFO] [Static] clarebel has left the game[m
+2013-01-09 23:18:04 [INFO] H4ZM4T issued server command: /tp h4zm4t mebeme
+2013-01-09 23:18:18 [INFO] H4ZM4T issued server command: /you have the fluid tag?
+2013-01-09 23:18:20 [INFO] <H4ZM4T> huh?[m
+2013-01-09 23:18:21 [INFO] [Static] mebeme died[m
+2013-01-09 23:18:28 [INFO] <H4ZM4T> on mine it has the tag static for youy[m
+2013-01-09 23:18:35 [INFO] Connection reset
+2013-01-09 23:18:35 [INFO] [Static] H4ZM4T has joined the game[m
+2013-01-09 23:18:35 [INFO] H4ZM4T lost connection: disconnect.endOfStream
+2013-01-09 23:18:37 [INFO] [Static] mebeme: When I say something I see [Fluid] mebeme[m
+2013-01-09 23:19:11 [INFO] [Static] mebeme: Whatever, what is xyz again[m
+2013-01-09 23:20:06 [INFO] [Static] H4ZM4T: 1860, -994[m
+2013-01-09 23:20:09 [INFO] [Static] H4ZM4T: toodles[m
+2013-01-09 23:20:11 [INFO] [Static] H4ZM4T has left the game[m
+2013-01-09 23:23:40 [INFO] [Static] adrianjboyer has left the game[m
+2013-01-09 23:23:40 [INFO] [Static] mebeme has left the game[m
+2013-01-10 03:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-10 03:00:02 [INFO] [35;1m[Server] Starting backup[m
+2013-01-10 03:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-10 03:00:02 [INFO] CONSOLE: Forcing save..[m
+2013-01-10 03:00:02 [INFO] CONSOLE: Save complete.[m
+2013-01-10 03:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-10 03:00:02 [INFO] CONSOLE: Disabled level saving..[m
