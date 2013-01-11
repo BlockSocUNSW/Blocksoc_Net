@@ -2600,3 +2600,24 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.server.Packet
 2013-01-11 21:00:01 [INFO] CONSOLE: Save complete.[m
 2013-01-11 21:00:02 [INFO] Unknown command. Type "help" for help.[m
 2013-01-11 21:00:02 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-11 21:05:43 [INFO] Unknown command. Type "help" for help.[m
+2013-01-11 21:05:43 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-11 21:05:43 [INFO] Unknown command. Type "help" for help.[m
+2013-01-11 21:05:43 [INFO] CONSOLE: Forcing save..[m
+2013-01-11 21:05:43 [INFO] CONSOLE: Save complete.[m
+2013-01-11 21:05:43 [INFO] Unknown command. Type "help" for help.[m
+2013-01-11 21:05:43 [INFO] [35;1m[Server] Backup complete[m
+2013-01-11 21:10:04 [INFO] [Static] clarebel died[m
+2013-01-11 21:12:16 [INFO] [Static] clarebel died[m
+2013-01-11 21:13:04 [INFO] [Static] clarebel has left the game[m
+2013-01-11 21:45:05 [INFO] [Static] clarebel has joined the game[m
+2013-01-11 22:13:05 [INFO] [Static] clarebel died[m
+2013-01-11 22:19:05 [INFO] [Static] clarebel died[m
+2013-01-11 22:19:30 [INFO] [Static] clarebel has left the game[m
+2013-01-12 03:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-12 03:00:02 [INFO] [35;1m[Server] Starting backup[m
+2013-01-12 03:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-12 03:00:02 [INFO] CONSOLE: Forcing save..[m
+2013-01-12 03:00:02 [INFO] CONSOLE: Save complete.[m
+2013-01-12 03:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-12 03:00:02 [INFO] CONSOLE: Disabled level saving..[m
