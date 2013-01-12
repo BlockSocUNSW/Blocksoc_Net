@@ -2635,3 +2635,79 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.server.Packet
 2013-01-12 09:00:02 [INFO] CONSOLE: Save complete.[m
 2013-01-12 09:00:02 [INFO] Unknown command. Type "help" for help.[m
 2013-01-12 09:00:02 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-12 09:08:37 [INFO] Unknown command. Type "help" for help.[m
+2013-01-12 09:08:37 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-12 09:08:37 [INFO] Unknown command. Type "help" for help.[m
+2013-01-12 09:08:37 [INFO] CONSOLE: Forcing save..[m
+2013-01-12 09:08:37 [INFO] CONSOLE: Save complete.[m
+2013-01-12 09:08:37 [INFO] Unknown command. Type "help" for help.[m
+2013-01-12 09:08:37 [INFO] [35;1m[Server] Backup complete[m
+2013-01-12 14:17:46 [SEVERE] [xServer] Could not read packet
+2013-01-12 14:17:46 [INFO] [31;22m[XServer]Lost Connection to Host[m
+2013-01-12 14:17:49 [SEVERE] [xServer] Failed to create Socket - Client
+2013-01-12 14:47:31 [INFO] CONSOLE: Stopping the server..[m
+2013-01-12 14:47:31 [INFO] Stopping server
+2013-01-12 14:47:31 [INFO] [SimpleWelcome] Disabling SimpleWelcome v1.0.1
+2013-01-12 14:47:31 [INFO] [SimpleWelcome] Disabled successfully!
+2013-01-12 14:47:32 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2013-01-12 14:47:32 [INFO] [CreeperMess v1.2] Disabled!
+2013-01-12 14:47:32 [INFO] [Ghard] Disabling Ghard v1.0
+2013-01-12 14:47:32 [INFO] Ghard is now disabled.
+2013-01-12 14:47:32 [INFO] [xServer] Disabling xServer v0.2.7
+2013-01-12 14:47:32 [SEVERE] [xServer] Couldn't send packet
+2013-01-12 14:47:32 [SEVERE] [xServer] Couldn't send packet
+2013-01-12 14:47:32 [INFO] [36;1m[XServer] Disconnecting from host[m
+2013-01-12 14:47:32 [INFO] Saving players
+2013-01-12 14:47:32 [WARNING] DSCT: Socket closed
+2013-01-12 14:47:32 [INFO] Saving worlds
+2013-01-12 14:47:32 [INFO] Closing listening thread
+2013-01-12 14:47:32 [INFO] Saving chunks for level 'world'/Overworld
+2013-01-12 14:47:32 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-01-12 14:47:32 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-01-12 14:47:32 [INFO] Stopping server
+2013-01-12 14:48:42 [INFO] Starting minecraft server version 1.4.6
+2013-01-12 14:48:42 [INFO] Loading properties
+2013-01-12 14:48:42 [INFO] Default game type: SURVIVAL
+2013-01-12 14:48:42 [INFO] Generating keypair
+2013-01-12 14:48:43 [INFO] Starting Minecraft server on localhost:25503
+2013-01-12 14:48:43 [INFO] This server is running CraftBukkit version git-Bukkit-1.4.6-R0.3-b2586jnks (MC: 1.4.6) (Implementing API version 1.4.6-R0.3)
+2013-01-12 14:48:44 [INFO] [xServer] Loading xServer v0.2.7
+2013-01-12 14:48:44 [INFO] [Ghard] Loading Ghard v1.0
+2013-01-12 14:48:44 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2013-01-12 14:48:44 [INFO] [SimpleWelcome] Loading SimpleWelcome v1.0.1
+2013-01-12 14:48:44 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-01-12 14:48:44 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-01-12 14:48:44 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-01-12 14:48:44 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-01-12 14:48:44 [INFO] Preparing level "world"
+2013-01-12 14:48:44 [INFO] ----- Bukkit Auto Updater -----
+2013-01-12 14:48:44 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-01-12 14:48:44 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2013-01-12 14:48:44 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-01-12 14:48:44 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-01-12 14:48:44 [INFO] ----- ------------------- -----
+2013-01-12 14:48:44 [INFO] Preparing start region for level 0 (Seed: -5698702710497099097)
+2013-01-12 14:48:45 [INFO] Preparing start region for level 1 (Seed: -5698702710497099097)
+2013-01-12 14:48:45 [INFO] Preparing spawn area: 0%
+2013-01-12 14:48:46 [INFO] Preparing start region for level 2 (Seed: -5698702710497099097)
+2013-01-12 14:48:46 [INFO] Preparing spawn area: 93%
+2013-01-12 14:48:46 [INFO] [xServer] Enabling xServer v0.2.7
+2013-01-12 14:48:46 [INFO] [xServer] XServer Version 0.2.6 Initializing
+2013-01-12 14:48:46 [SEVERE] [xServer] Failed to create Socket - Client
+2013-01-12 14:48:46 [INFO] [Ghard] Enabling Ghard v1.0
+2013-01-12 14:48:46 [INFO] [Ghard] 1.0 loading.
+2013-01-12 14:48:46 [INFO] [Ghard] 1 dead players loaded from the file.
+2013-01-12 14:48:46 [INFO] [Ghard] 1.0 is now enabled!
+2013-01-12 14:48:46 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2013-01-12 14:48:46 [INFO] [CreeperMess v1.2] Enabled!
+2013-01-12 14:48:46 [INFO] [SimpleWelcome] Enabling SimpleWelcome v1.0.1
+2013-01-12 14:48:46 [INFO] [SimpleWelcome] Enabled successfully!
+2013-01-12 14:48:46 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-01-12 14:48:46 [INFO] Done (2.383s)! For help, type "help" or "?"
+2013-01-12 15:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-12 15:00:02 [INFO] [35;1m[Server] Starting backup[m
+2013-01-12 15:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-12 15:00:02 [INFO] CONSOLE: Forcing save..[m
+2013-01-12 15:00:02 [INFO] CONSOLE: Save complete.[m
+2013-01-12 15:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-12 15:00:02 [INFO] CONSOLE: Disabled level saving..[m
