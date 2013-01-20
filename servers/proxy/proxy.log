@@ -11,3 +11,121 @@
 14:48:27 [INFO] Saved reconnect locations to locations.yml
 14:53:27 [INFO] Saved reconnect locations to locations.yml
 14:58:27 [INFO] Saved reconnect locations to locations.yml
+15:03:27 [INFO] Saved reconnect locations to locations.yml
+15:08:27 [INFO] Saved reconnect locations to locations.yml
+15:13:27 [INFO] Saved reconnect locations to locations.yml
+15:18:27 [INFO] Saved reconnect locations to locations.yml
+15:23:27 [INFO] Saved reconnect locations to locations.yml
+15:28:27 [INFO] Saved reconnect locations to locations.yml
+15:33:27 [INFO] Saved reconnect locations to locations.yml
+15:38:11 [INFO] /60.240.95.188 has connected
+15:38:27 [INFO] Saved reconnect locations to locations.yml
+15:43:27 [INFO] Saved reconnect locations to locations.yml
+15:48:27 [INFO] Saved reconnect locations to locations.yml
+15:53:27 [INFO] Saved reconnect locations to locations.yml
+15:58:27 [INFO] Saved reconnect locations to locations.yml
+15:58:38 [INFO] /110.33.143.193 [clarebel] disconnected with EOFException : null @ java.io.DataInputStream:290
+15:58:38 [INFO] /127.0.0.1 disconnected with Quitting
+15:58:38 [INFO] /127.0.0.1 disconnected with Quitting
+16:03:27 [INFO] Saved reconnect locations to locations.yml
+16:04:50 [INFO] /110.33.143.193 has connected
+16:04:51 [INFO] /110.33.143.193 has connected
+16:08:27 [INFO] Saved reconnect locations to locations.yml
+16:13:27 [INFO] Saved reconnect locations to locations.yml
+16:18:27 [INFO] Saved reconnect locations to locations.yml
+16:23:27 [INFO] Saved reconnect locations to locations.yml
+16:28:27 [INFO] Saved reconnect locations to locations.yml
+16:29:47 [INFO] /110.33.143.193 [clarebel] disconnected with EOFException : null @ java.io.DataInputStream:290
+16:29:47 [INFO] /127.0.0.1 disconnected with Quitting
+16:29:47 [INFO] /127.0.0.1 disconnected with Quitting
+16:31:23 [INFO] /110.33.143.193 has connected
+16:31:25 [INFO] /110.33.143.193 has connected
+16:33:27 [INFO] Saved reconnect locations to locations.yml
+16:34:17 [INFO] /60.240.95.188 has connected
+16:38:27 [INFO] Saved reconnect locations to locations.yml
+16:43:27 [INFO] Saved reconnect locations to locations.yml
+16:48:27 [INFO] Saved reconnect locations to locations.yml
+16:52:24 [INFO] /110.33.143.193 [clarebel] disconnected with EOFException : null @ java.io.DataInputStream:290
+16:52:24 [INFO] /127.0.0.1 disconnected with Quitting
+16:52:24 [INFO] /127.0.0.1 disconnected with Quitting
+16:53:27 [INFO] Saved reconnect locations to locations.yml
+16:56:42 [INFO] /110.33.143.193 has connected
+16:56:43 [INFO] /110.33.143.193 has connected
+16:58:27 [INFO] Saved reconnect locations to locations.yml
+17:03:27 [INFO] Saved reconnect locations to locations.yml
+17:08:27 [INFO] Saved reconnect locations to locations.yml
+17:13:27 [INFO] Saved reconnect locations to locations.yml
+17:18:27 [INFO] Saved reconnect locations to locations.yml
+17:19:08 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/BungeeCord
+17:23:27 [INFO] Saved reconnect locations to locations.yml
+17:28:27 [INFO] Saved reconnect locations to locations.yml
+17:33:27 [INFO] Saved reconnect locations to locations.yml
+17:38:27 [INFO] Saved reconnect locations to locations.yml
+17:43:27 [INFO] Saved reconnect locations to locations.yml
+17:48:27 [INFO] Saved reconnect locations to locations.yml
+17:53:27 [INFO] Saved reconnect locations to locations.yml
+17:55:41 [INFO] /110.33.143.193 [clarebel] disconnected with EOFException : null @ java.io.DataInputStream:290
+17:55:41 [INFO] /127.0.0.1 disconnected with Quitting
+17:55:41 [INFO] /127.0.0.1 disconnected with Quitting
+17:58:18 [INFO] /110.33.143.193 has connected
+17:58:24 [INFO] /110.33.143.193 has connected
+17:58:27 [INFO] Saved reconnect locations to locations.yml
+18:03:27 [INFO] Saved reconnect locations to locations.yml
+18:08:27 [INFO] Saved reconnect locations to locations.yml
+18:13:27 [INFO] Saved reconnect locations to locations.yml
+18:13:45 [INFO] /110.33.143.193 [clarebel] disconnected with EOFException : null @ java.io.DataInputStream:290
+18:13:45 [INFO] /127.0.0.1 disconnected with Quitting
+18:13:45 [INFO] /127.0.0.1 disconnected with Quitting
+18:18:27 [INFO] Saved reconnect locations to locations.yml
+18:18:27 [INFO] /110.33.143.193 has connected
+18:18:35 [INFO] /110.33.143.193 has connected
+18:23:27 [INFO] Saved reconnect locations to locations.yml
+18:28:27 [INFO] Saved reconnect locations to locations.yml
+18:32:24 [INFO] /110.33.143.193 [clarebel] disconnected with EOFException : null @ java.io.DataInputStream:290
+18:32:24 [INFO] /127.0.0.1 disconnected with Quitting
+18:32:24 [INFO] /127.0.0.1 disconnected with Quitting
+18:33:27 [INFO] Saved reconnect locations to locations.yml
+18:34:21 [INFO] /110.33.143.193 has connected
+18:34:46 [INFO] /110.33.143.193 has connected
+18:38:27 [INFO] Saved reconnect locations to locations.yml
+18:43:27 [INFO] Saved reconnect locations to locations.yml
+18:48:27 [INFO] Saved reconnect locations to locations.yml
+18:53:27 [INFO] Saved reconnect locations to locations.yml
+18:58:27 [INFO] Saved reconnect locations to locations.yml
+19:03:27 [INFO] Saved reconnect locations to locations.yml
+19:06:53 [INFO] /110.33.143.193 [clarebel] disconnected with Reached end of stream
+19:06:53 [INFO] /127.0.0.1 disconnected with Quitting
+19:08:27 [INFO] Saved reconnect locations to locations.yml
+19:10:13 [INFO] [Metrics] Connection timed out
+19:13:27 [INFO] Saved reconnect locations to locations.yml
+19:18:27 [INFO] Saved reconnect locations to locations.yml
+19:21:16 [INFO] [Metrics] Connection timed out
+19:23:27 [INFO] Saved reconnect locations to locations.yml
+19:28:27 [INFO] Saved reconnect locations to locations.yml
+19:31:56 [INFO] [Metrics] mcstats.org
+19:33:27 [INFO] Saved reconnect locations to locations.yml
+19:38:27 [INFO] Saved reconnect locations to locations.yml
+19:42:36 [INFO] [Metrics] mcstats.org
+19:43:27 [INFO] Saved reconnect locations to locations.yml
+19:48:27 [INFO] Saved reconnect locations to locations.yml
+19:53:16 [INFO] [Metrics] mcstats.org
+19:53:27 [INFO] Saved reconnect locations to locations.yml
+19:58:27 [INFO] Saved reconnect locations to locations.yml
+20:03:27 [INFO] Saved reconnect locations to locations.yml
+20:03:56 [INFO] [Metrics] mcstats.org
+20:08:27 [INFO] Saved reconnect locations to locations.yml
+20:13:27 [INFO] Saved reconnect locations to locations.yml
+20:14:36 [INFO] [Metrics] mcstats.org
+20:18:27 [INFO] Saved reconnect locations to locations.yml
+20:23:27 [INFO] Saved reconnect locations to locations.yml
+20:25:16 [INFO] [Metrics] mcstats.org
+20:28:27 [INFO] Saved reconnect locations to locations.yml
+20:33:27 [INFO] Saved reconnect locations to locations.yml
+20:35:56 [INFO] [Metrics] mcstats.org
+20:38:27 [INFO] Saved reconnect locations to locations.yml
+20:43:27 [INFO] Saved reconnect locations to locations.yml
+20:46:36 [INFO] [Metrics] mcstats.org
+20:48:27 [INFO] Saved reconnect locations to locations.yml
+20:53:27 [INFO] Saved reconnect locations to locations.yml
+20:57:16 [INFO] [Metrics] mcstats.org
+20:58:27 [INFO] Saved reconnect locations to locations.yml
