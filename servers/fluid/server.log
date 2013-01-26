@@ -3163,3 +3163,18 @@
 2013-01-26 15:00:02 [INFO] CONSOLE: Save complete.[m
 2013-01-26 15:00:02 [INFO] Unknown command. Type "help" for help.[m
 2013-01-26 15:00:02 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-26 15:07:40 [INFO] Unknown command. Type "help" for help.[m
+2013-01-26 15:07:40 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-26 15:07:40 [INFO] Unknown command. Type "help" for help.[m
+2013-01-26 15:07:40 [INFO] CONSOLE: Forcing save..[m
+2013-01-26 15:07:44 [INFO] CONSOLE: Save complete.[m
+2013-01-26 15:07:44 [INFO] Unknown command. Type "help" for help.[m
+2013-01-26 15:07:44 [INFO] [35;1m[Server] Backup complete[m
+2013-01-26 15:07:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-01-26 21:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-26 21:00:02 [INFO] [35;1m[Server] Starting backup[m
+2013-01-26 21:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-26 21:00:02 [INFO] CONSOLE: Forcing save..[m
+2013-01-26 21:00:02 [INFO] CONSOLE: Save complete.[m
+2013-01-26 21:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-26 21:00:02 [INFO] CONSOLE: Disabled level saving..[m
