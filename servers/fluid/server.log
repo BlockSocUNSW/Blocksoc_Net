@@ -3234,3 +3234,27 @@
 2013-01-27 21:00:10 [INFO] CONSOLE: Save complete.[m
 2013-01-27 21:00:10 [INFO] Unknown command. Type "help" for help.[m
 2013-01-27 21:00:10 [INFO] CONSOLE: Disabled level saving..[m
+2013-01-27 21:22:20 [INFO] Unknown command. Type "help" for help.[m
+2013-01-27 21:22:20 [INFO] CONSOLE: Enabled level saving..[m
+2013-01-27 21:22:20 [INFO] Unknown command. Type "help" for help.[m
+2013-01-27 21:22:20 [INFO] CONSOLE: Forcing save..[m
+2013-01-27 21:22:20 [INFO] CONSOLE: Save complete.[m
+2013-01-27 21:22:20 [INFO] Unknown command. Type "help" for help.[m
+2013-01-27 21:22:20 [INFO] [35;1m[Server] Backup complete[m
+2013-01-28 03:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-01-28 03:00:03 [INFO] [35;1m[Server] Starting backup[m
+2013-01-28 03:00:03 [INFO] Unknown command. Type "help" for help.[m
+2013-01-28 03:00:03 [INFO] CONSOLE: Forcing save..[m
+2013-01-28 03:00:03 [SEVERE] java.io.IOException: No space left on device
+2013-01-28 03:00:03 [SEVERE] 	at java.io.FileOutputStream.writeBytes(Native Method)
+2013-01-28 03:00:03 [SEVERE] 	at java.io.FileOutputStream.write(FileOutputStream.java:305)
+2013-01-28 03:00:03 [SEVERE] 	at java.util.zip.GZIPOutputStream.writeHeader(GZIPOutputStream.java:183)
+2013-01-28 03:00:03 [SEVERE] 	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:95)
+2013-01-28 03:00:03 [SEVERE] 	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:110)
+2013-01-28 03:00:03 [SEVERE] 	at net.minecraft.server.v1_4_R1.NBTCompressedStreamTools.a(SourceFile:18)
+2013-01-28 03:00:03 [SEVERE] 	at net.minecraft.server.v1_4_R1.WorldNBTStorage.saveWorldData(WorldNBTStorage.java:124)
+2013-01-28 03:00:03 [SEVERE] 	at net.minecraft.server.v1_4_R1.ServerNBTManager.saveWorldData(SourceFile:41)
+2013-01-28 03:00:03 [SEVERE] 	at net.minecraft.server.v1_4_R1.WorldServer.a(WorldServer.java:715)
+2013-01-28 03:00:03 [SEVERE] 	at net.minecraft.server.v1_4_R1.WorldServer.save(WorldServer.java:704)
+2013-01-28 03:00:03 [SEVERE] 	at org.bukkit.craftbukkit.v1_4_R1.CraftWorld.save(CraftWorld.java:646)
+2013-01
