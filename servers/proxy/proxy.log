@@ -54,3 +54,5 @@
 21:19:38 [INFO] /124.169.138.235 has connected
 21:22:18 [INFO] /124.169.138.235 has connected
 21:34:15 [INFO] /124.169.138.235 has connected
+05:52:22 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/BungeeCord
+08:02:50 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/BungeeCord
