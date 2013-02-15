@@ -51,3 +51,14 @@
 21:00:24 [INFO] /60.241.170.155 has connected
 21:00:24 [INFO] /60.241.170.155 has connected
 21:00:29 [INFO] /60.241.170.155 has connected
+22:12:31 [INFO] /60.241.170.155 [H4ZM4T] disconnected with EOFException : null @ java.io.DataInputStream:290
+22:12:31 [INFO] /127.0.0.1 disconnected with Quitting
+22:12:31 [INFO] /127.0.0.1 disconnected with Quitting
+22:14:42 [INFO] /124.179.91.67 has connected
+22:14:43 [INFO] /124.179.91.67 has connected
+22:44:31 [INFO] /124.179.91.67 [Sephuran] disconnected with EOFException : null @ java.io.DataInputStream:290
+22:44:31 [INFO] /127.0.0.1 disconnected with Quitting
+22:44:31 [INFO] /127.0.0.1 disconnected with Quitting
+23:38:12 [INFO] /124.169.138.235 [CMOT_Dibbler] disconnected with EOFException : null @ java.io.DataInputStream:290
+23:38:12 [INFO] /127.0.0.1 disconnected with Quitting
+23:38:12 [INFO] /127.0.0.1 disconnected with Quitting
