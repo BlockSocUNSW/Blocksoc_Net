@@ -1,9 +1,9 @@
 SURVIVAL:
-  inventoryContents: '{"3":{"#":2,"t":289},"2":{"#":8,"t":367},"1":{"#":11,"t":262},"0":{"#":16,"t":352}}'
   potions: '[]'
+  enderChestContents: '{}'
   armorContents: '{}'
   bedSpawnLocation: '{"ya":0.0,"wo":"world","pi":0.0,"z":-24.0,"y":80.0,"x":-72.0}'
-  enderChestContents: '{}'
+  inventoryContents: '{"3":{"#":2,"t":289},"2":{"#":8,"t":367},"1":{"#":11,"t":262},"0":{"#":16,"t":352}}'
   stats: '{"ra":"300","ex":"3.7524247","hp":"20","fl":"20","txp":"0","el":"0","ma":"300","sa":"0.0","xp":"0.0","ft":"-20","fd":"0.0"}'
 CREATIVE:
   potions: ''
