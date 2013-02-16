@@ -84,3 +84,7 @@
 22:43:36 [INFO] /127.0.0.1 disconnected with Quitting
 22:43:36 [INFO] /127.0.0.1 disconnected with Quitting
 23:49:08 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/BungeeCord
+05:19:15 [INFO] [Metrics] Connection reset
+05:29:16 [INFO] [Metrics] Connection reset
+05:39:16 [INFO] [Metrics] Connection reset
+05:49:16 [INFO] [Metrics] Connection reset
