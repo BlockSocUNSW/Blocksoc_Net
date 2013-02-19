@@ -171,3 +171,34 @@
 06:21:24 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/BungeeCord
 06:31:25 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/BungeeCord
 06:41:25 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/BungeeCord
+09:30:32 [INFO] /124.179.91.67 has connected
+09:30:33 [INFO] /124.179.91.67 has connected
+09:44:02 [INFO] /124.179.91.67 [Sephuran] disconnected with EOFException : null @ java.io.DataInputStream:290
+09:44:02 [INFO] /127.0.0.1 disconnected with Quitting
+09:44:02 [INFO] /127.0.0.1 disconnected with Quitting
+10:42:29 [INFO] /27.32.76.43 has connected
+10:42:31 [INFO] /27.32.76.43 has connected
+10:48:36 [INFO] /27.32.76.43 [k3h] disconnected with EOFException : null @ java.io.DataInputStream:290
+10:48:36 [INFO] /127.0.0.1 disconnected with Quitting
+10:48:36 [INFO] /127.0.0.1 disconnected with Quitting
+10:48:44 [INFO] /27.32.76.43 has connected
+11:32:33 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/BungeeCord
+11:42:33 [INFO] [Metrics] Connection reset
+11:53:34 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/BungeeCord
+12:09:45 [INFO] /27.32.76.43 has connected
+12:09:48 [INFO] /27.32.76.43 has connected
+13:44:18 [INFO] /27.32.76.43 [k3h] disconnected with EOFException : null @ java.io.DataInputStream:290
+13:44:18 [INFO] /127.0.0.1 disconnected with Quitting
+13:44:18 [INFO] /127.0.0.1 disconnected with Quitting
+13:44:34 [INFO] /27.32.76.43 has connected
+13:44:34 [INFO] /27.32.76.43 has connected
+13:44:38 [INFO] /27.32.76.43 has connected
+13:46:54 [INFO] /27.32.76.43 [k3h] disconnected with EOFException : null @ java.io.DataInputStream:290
+13:46:54 [INFO] /127.0.0.1 disconnected with Quitting
+13:46:54 [INFO] /127.0.0.1 disconnected with Quitting
+13:47:03 [INFO] /27.32.76.43 has connected
+14:07:25 [INFO] /27.32.76.43 has connected
+14:12:15 [INFO] /27.32.76.43 has connected
+14:23:37 [INFO] [Metrics] Connection reset
+14:25:02 [INFO] /27.32.76.43 has connected
+14:43:38 [INFO] [Metrics] Connection reset
