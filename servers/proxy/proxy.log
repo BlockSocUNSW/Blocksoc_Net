@@ -58,3 +58,15 @@
 07:21:19 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/BungeeCord
 07:31:19 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/BungeeCord
 07:41:19 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/BungeeCord
+17:27:41 [INFO] /27.32.76.43 has connected
+17:51:40 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/BungeeCord
+18:18:01 [INFO] /27.32.76.43 has connected
+18:18:56 [INFO] /27.32.76.43 has connected
+18:20:49 [INFO] /27.32.76.43 has connected
+20:02:25 [INFO] /124.169.138.235 has connected
+20:02:29 [INFO] /124.169.138.235 has connected
+20:38:58 [INFO] /124.169.138.235 [CMOT_Dibbler] disconnected with EOFException : null @ java.io.DataInputStream:290
+20:38:58 [INFO] /127.0.0.1 disconnected with Quitting
+20:38:58 [INFO] /127.0.0.1 disconnected with Quitting
+20:42:22 [INFO] /124.169.138.235 has connected
+20:42:23 [INFO] /124.169.138.235 has connected
