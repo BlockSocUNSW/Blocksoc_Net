@@ -70,3 +70,19 @@
 20:38:58 [INFO] /127.0.0.1 disconnected with Quitting
 20:42:22 [INFO] /124.169.138.235 has connected
 20:42:23 [INFO] /124.169.138.235 has connected
+22:38:50 [INFO] /124.169.138.235 [CMOT_Dibbler] disconnected with EOFException : null @ java.io.DataInputStream:290
+22:38:50 [INFO] /127.0.0.1 disconnected with Quitting
+22:38:50 [INFO] /127.0.0.1 disconnected with Quitting
+22:39:49 [INFO] /124.169.138.235 has connected
+22:39:49 [INFO] /124.169.138.235 has connected
+22:52:20 [INFO] /27.32.76.43 has connected
+22:56:19 [INFO] /124.169.138.235 [CMOT_Dibbler] disconnected with EOFException : null @ java.io.DataInputStream:290
+22:56:19 [INFO] /127.0.0.1 disconnected with Quitting
+22:56:19 [INFO] /127.0.0.1 disconnected with Quitting
+22:58:22 [INFO] /124.169.138.235 has connected
+22:58:26 [INFO] /124.169.138.235 has connected
+23:04:52 [INFO] /124.169.138.235 [CMOT_Dibbler] disconnected with EOFException : null @ java.io.DataInputStream:290
+23:04:52 [INFO] /127.0.0.1 disconnected with Quitting
+23:04:52 [INFO] /127.0.0.1 disconnected with Quitting
+00:22:47 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/BungeeCord
+00:53:59 [INFO] /14.200.92.110 has connected
