@@ -149,3 +149,5 @@
 02:37:10 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/BungeeCord
 02:47:11 [INFO] [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/BungeeCord
 02:57:11 [INFO] [Metrics] Connection reset
+06:48:27 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/BungeeCord
+06:59:26 [INFO] [Metrics] Connection reset
