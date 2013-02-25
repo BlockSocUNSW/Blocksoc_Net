@@ -41,3 +41,18 @@
 13:04:29 [INFO] /101.174.21.77 [Sephuran] disconnected with EOFException : null @ java.io.DataInputStream:290
 13:04:29 [INFO] /127.0.0.1 disconnected with Quitting
 13:04:29 [INFO] /127.0.0.1 disconnected with Quitting
+16:20:24 [INFO] /101.174.21.77 has connected
+16:20:26 [INFO] /101.174.21.77 has connected
+16:48:19 [INFO] /101.174.21.77 [Sephuran] disconnected with EOFException : null @ java.io.DataInputStream:290
+16:48:19 [INFO] /127.0.0.1 disconnected with Quitting
+16:48:19 [INFO] /127.0.0.1 disconnected with Quitting
+16:52:18 [INFO] /101.174.21.77 has connected
+16:52:18 [INFO] /101.174.21.77 has connected
+16:59:54 [INFO] /101.174.21.77 [Sephuran] disconnected with EOFException : null @ java.io.DataInputStream:290
+16:59:54 [INFO] /127.0.0.1 disconnected with Quitting
+16:59:54 [INFO] /127.0.0.1 disconnected with Quitting
+18:44:28 [INFO] /101.174.21.77 has connected
+18:44:28 [INFO] /101.174.21.77 has connected
+19:48:44 [INFO] /101.174.21.77 [Sephuran] disconnected with EOFException : null @ java.io.DataInputStream:290
+19:48:44 [INFO] /127.0.0.1 disconnected with Quitting
+19:48:44 [INFO] /127.0.0.1 disconnected with Quitting
