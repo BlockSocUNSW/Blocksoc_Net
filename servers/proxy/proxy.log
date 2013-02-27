@@ -147,3 +147,9 @@
 23:20:20 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/BungeeCord
 02:20:25 [INFO] [Metrics] Connection reset
 02:51:33 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/BungeeCord
+03:21:34 [INFO] [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/BungeeCord
+06:18:31 [INFO] /202.171.168.146 has connected
+06:18:32 [INFO] /202.171.168.146 has connected
+06:47:55 [INFO] /202.171.168.146 [Sephuran] disconnected with EOFException : null @ java.io.DataInputStream:290
+06:47:55 [INFO] /127.0.0.1 disconnected with Quitting
+06:47:55 [INFO] /127.0.0.1 disconnected with Quitting
