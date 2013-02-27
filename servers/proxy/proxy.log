@@ -144,3 +144,6 @@
 18:05:44 [INFO] /127.0.0.1 disconnected with Quitting
 18:05:44 [INFO] /127.0.0.1 disconnected with Quitting
 18:29:08 [INFO] [Metrics] Connection reset
+23:20:20 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/BungeeCord
+02:20:25 [INFO] [Metrics] Connection reset
+02:51:33 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/BungeeCord
