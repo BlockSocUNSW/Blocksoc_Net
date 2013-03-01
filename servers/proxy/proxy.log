@@ -167,3 +167,21 @@
 03:44:32 [INFO] [Metrics] Connection reset
 05:15:48 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/BungeeCord
 06:36:00 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/BungeeCord
+09:27:10 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/BungeeCord
+09:57:11 [INFO] [Metrics] Connection reset
+13:37:15 [INFO] [Metrics] Connection reset
+13:38:34 [INFO] /203.132.87.254 has connected
+13:49:08 [INFO] /203.132.87.254 [magicalron] disconnected with EOFException : null @ java.io.DataInputStream:290
+13:49:08 [INFO] /127.0.0.1 disconnected with Quitting
+13:49:08 [INFO] /127.0.0.1 disconnected with Quitting
+13:49:14 [INFO] /203.132.87.254 has connected
+13:57:16 [INFO] [Metrics] Connection reset
+13:57:25 [INFO] /203.132.87.254 [magicalron] disconnected with EOFException : null @ java.io.DataInputStream:290
+13:57:25 [INFO] /127.0.0.1 disconnected with Quitting
+13:57:25 [INFO] /127.0.0.1 disconnected with Quitting
+14:04:39 [INFO] /203.132.87.254 has connected
+14:48:31 [INFO] /203.132.87.254 [magicalron] disconnected with EOFException : null @ java.io.DataInputStream:290
+14:48:31 [INFO] /127.0.0.1 disconnected with Quitting
+14:48:31 [INFO] /127.0.0.1 disconnected with Quitting
+14:51:53 [INFO] /203.132.87.254 has connected
+14:51:54 [INFO] /203.132.87.254 has connected
