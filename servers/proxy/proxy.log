@@ -95,3 +95,26 @@
 08:15:19 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/BungeeCord
 08:20:28 [INFO] /202.171.168.146 has connected
 08:20:28 [INFO] /202.171.168.146 has connected
+09:05:16 [INFO] /202.171.168.146 [Sephuran] disconnected with EOFException : null @ java.io.DataInputStream:290
+09:05:16 [INFO] /127.0.0.1 disconnected with Quitting
+09:10:09 [INFO] /202.171.168.146 has connected
+09:10:10 [INFO] /202.171.168.146 has connected
+10:17:53 [INFO] /202.171.168.146 [Sephuran] disconnected with EOFException : null @ java.io.DataInputStream:290
+10:17:53 [INFO] /127.0.0.1 disconnected with Quitting
+10:17:53 [INFO] /127.0.0.1 disconnected with Quitting
+10:56:14 [INFO] /202.171.168.146 has connected
+10:56:14 [INFO] /202.171.168.146 has connected
+11:04:49 [INFO] /202.171.168.146 [Sephuran] disconnected with EOFException : null @ java.io.DataInputStream:290
+11:04:49 [INFO] /127.0.0.1 disconnected with Quitting
+11:04:49 [INFO] /127.0.0.1 disconnected with Quitting
+12:25:24 [INFO] [Metrics] Connection reset
+12:46:27 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/BungeeCord
+12:56:05 [INFO] /129.94.124.211 has connected
+12:56:12 [INFO] /129.94.124.211 has connected
+13:05:45 [INFO] /129.94.124.211 [Xzander3] disconnected with Reached end of stream
+13:05:47 [INFO] /127.0.0.1 disconnected with Quitting
+13:05:47 [INFO] /127.0.0.1 disconnected with Quitting
+13:17:28 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/BungeeCord
+14:51:03 [INFO] /129.94.124.211 has connected
+14:58:20 [INFO] /202.171.168.146 has connected
+14:58:21 [INFO] /202.171.168.146 has connected
