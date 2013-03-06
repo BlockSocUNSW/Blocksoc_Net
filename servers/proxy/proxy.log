@@ -210,3 +210,4 @@
 07:48:04 [INFO] /202.171.168.146 [Sephuran] disconnected with EOFException : null @ java.io.DataInputStream:290
 07:48:04 [INFO] /127.0.0.1 disconnected with Quitting
 07:48:04 [INFO] /127.0.0.1 disconnected with Quitting
+09:55:38 [INFO] [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/BungeeCord
