@@ -47,3 +47,7 @@
 19:20:43 [INFO] /27.32.76.43 has connected
 19:22:52 [INFO] /27.32.76.43 has connected
 07:40:53 [INFO] /27.32.76.43 has connected
+17:22:46 [INFO] /27.32.76.43 has connected
+17:22:52 [INFO] /27.32.76.43 has connected
+18:22:27 [INFO] [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/BungeeCord
+20:52:36 [INFO] [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/BungeeCord
