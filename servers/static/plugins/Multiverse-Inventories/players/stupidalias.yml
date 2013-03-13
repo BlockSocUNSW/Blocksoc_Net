@@ -1,2 +1,3 @@
 playerData:
-  lastWorld: fluid
+  shouldLoad: false
+  lastWorld: fluid_nether

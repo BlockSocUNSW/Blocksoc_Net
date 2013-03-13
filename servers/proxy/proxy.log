@@ -83,3 +83,16 @@
 21:16:57 [INFO] /27.32.76.43 has connected
 21:18:19 [INFO] /27.32.76.43 has connected
 21:18:49 [INFO] /27.32.76.43 has connected
+14:03:24 [INFO] /60.241.125.152 has connected
+14:04:57 [INFO] /60.241.125.152 [stupidalias] disconnected with Reached end of stream
+14:04:57 [INFO] /127.0.0.1 disconnected with Quitting
+14:11:50 [INFO] /60.241.125.152 has connected
+14:12:27 [INFO] /60.241.125.152 has connected
+14:14:28 [INFO] /60.241.125.152 [stupidalias] disconnected with EOFException : null @ java.io.DataInputStream:290
+14:14:28 [INFO] /127.0.0.1 disconnected with Quitting
+14:14:28 [INFO] /127.0.0.1 disconnected with Quitting
+14:14:30 [INFO] /60.241.125.152 has connected
+14:15:16 [INFO] /60.241.125.152 has connected
+14:19:50 [INFO] /60.241.125.152 has connected
+14:19:56 [INFO] /60.241.125.152 has connected
+14:19:59 [INFO] /60.241.125.152 has connected
