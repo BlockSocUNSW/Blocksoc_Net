@@ -167,3 +167,17 @@
 13:40:06 [INFO] /14.200.92.110 [lluoc] disconnected with EOFException : null @ java.io.DataInputStream:290
 13:40:06 [INFO] localhost/127.0.0.1 disconnected with Quitting
 18:08:08 [INFO] /27.32.76.43 has connected
+06:47:50 [INFO] [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/BungeeCord
+06:57:50 [INFO] [Metrics] Connection reset
+07:07:50 [INFO] [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/BungeeCord
+07:17:51 [INFO] [Metrics] Connection reset
+07:27:51 [INFO] [Metrics] Connection reset
+07:37:57 [INFO] [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/BungeeCord
+07:47:57 [INFO] [Metrics] Connection reset
+07:57:58 [INFO] [Metrics] Connection reset
+08:07:58 [INFO] [Metrics] Connection reset
+08:17:58 [INFO] [Metrics] Connection reset
+08:27:59 [INFO] [Metrics] Connection reset
+08:37:59 [INFO] [Metrics] Connection reset
+08:47:59 [INFO] [Metrics] Connection reset
+08:58:00 [INFO] [Metrics] Connection reset
