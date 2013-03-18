@@ -5627,3 +5627,17 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.server.Packet
 2013-03-18 09:00:02 [INFO] CONSOLE: Save complete.[m
 2013-03-18 09:00:02 [INFO] Unknown command. Type "help" for help.[m
 2013-03-18 09:00:02 [INFO] CONSOLE: Disabled level saving..[m
+2013-03-18 09:11:17 [INFO] Unknown command. Type "help" for help.[m
+2013-03-18 09:11:17 [INFO] CONSOLE: Enabled level saving..[m
+2013-03-18 09:11:17 [INFO] Unknown command. Type "help" for help.[m
+2013-03-18 09:11:17 [INFO] CONSOLE: Forcing save..[m
+2013-03-18 09:11:17 [INFO] CONSOLE: Save complete.[m
+2013-03-18 09:11:17 [INFO] Unknown command. Type "help" for help.[m
+2013-03-18 09:11:17 [INFO] [35;1m[Server] Backup complete[m
+2013-03-18 15:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-03-18 15:00:02 [INFO] [35;1m[Server] Starting backup[m
+2013-03-18 15:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-03-18 15:00:02 [INFO] CONSOLE: Forcing save..[m
+2013-03-18 15:00:02 [INFO] CONSOLE: Save complete.[m
+2013-03-18 15:00:02 [INFO] Unknown command. Type "help" for help.[m
+2013-03-18 15:00:02 [INFO] CONSOLE: Disabled level saving..[m

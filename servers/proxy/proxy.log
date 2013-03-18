@@ -139,3 +139,30 @@
 21:50:50 [INFO] /14.200.92.110 has connected
 22:05:11 [INFO] /14.200.92.110 has connected
 22:05:17 [INFO] /14.200.92.110 has connected
+13:22:01 [INFO] /14.200.92.110 has connected
+13:25:36 [INFO] Enabled BungeeCord version git-BungeeCord-Proxy-1.5-SNAPSHOT-"b3c3481"-282
+13:26:39 [INFO] Enabled BungeeCord version git-BungeeCord-Proxy-1.4.7-SNAPSHOT-"a0989a8"-224
+13:27:43 [INFO] Enabled BungeeCord version git-BungeeCord-Proxy-1.4.7-SNAPSHOT-"a0989a8"-224
+13:27:43 [INFO] Listening on /0.0.0.0:25577
+13:31:06 [INFO] Enabled BungeeCord version git-BungeeCord-Proxy-1.4.7-SNAPSHOT-"a0989a8"-224
+13:32:14 [INFO] Enabled BungeeCord version git-BungeeCord-Proxy-1.4.7-SNAPSHOT-"a0989a8"-224
+13:33:37 [INFO] Enabled BungeeCord version git-BungeeCord-Proxy-1.4.7-SNAPSHOT-"a0989a8"-224
+13:33:40 [INFO] Listening on /0.0.0.0:25577
+13:34:24 [INFO] Enabled BungeeCord version git-BungeeCord-Proxy-1.4.7-SNAPSHOT-"a0989a8"-224
+13:34:24 [INFO] Listening on /0.0.0.0:25577
+13:34:39 [INFO] Enabled BungeeCord version git-BungeeCord-Proxy-1.4.7-SNAPSHOT-"a0989a8"-224
+13:34:39 [INFO] Listening on /0.0.0.0:25577
+13:35:09 [INFO] Enabled BungeeCord version git-BungeeCord-Proxy-1.4.7-SNAPSHOT-"a0989a8"-224
+13:35:10 [INFO] Listening on /0.0.0.0:25577
+13:35:39 [INFO] Enabled BungeeCord version git-BungeeCord-Proxy-1.4.7-SNAPSHOT-"a0989a8"-224
+13:35:39 [INFO] Listening on /0.0.0.0:25577
+13:36:02 [INFO] Enabled BungeeCord version git-BungeeCord-Proxy-1.4.7-SNAPSHOT-"a0989a8"-224
+13:36:02 [INFO] Listening on /0.0.0.0:25577
+13:36:07 [INFO] Enabled BungeeCord version git-BungeeCord-Proxy-1.4.7-SNAPSHOT-"a0989a8"-224
+13:36:07 [INFO] Listening on /0.0.0.0:25577
+13:37:22 [INFO] Enabled BungeeCord version git-BungeeCord-Proxy-1.4.7-SNAPSHOT-"a0989a8"-224
+13:37:22 [INFO] Listening on /0.0.0.0:25565
+13:37:32 [INFO] /14.200.92.110 has connected
+13:37:34 [INFO] /14.200.92.110 has connected
+13:40:06 [INFO] /14.200.92.110 [lluoc] disconnected with EOFException : null @ java.io.DataInputStream:290
+13:40:06 [INFO] localhost/127.0.0.1 disconnected with Quitting

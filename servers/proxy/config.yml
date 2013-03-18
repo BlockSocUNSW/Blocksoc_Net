@@ -1,20 +1,33 @@
-bind_host: 0.0.0.0:25565
-motd: Blocksoc Survival Servers
-default_server_name: static
-max_players: 30
-tab_list: 1
-timeout: 15000
+listeners:
+- max_players: -1
+  host: 0.0.0.0:25565
+  tab_size: 60
+  force_default_server: true
+  motd: Blocksoc Survival Servers
+  default_server: static
+  forced_hosts:
+    pvp.md-5.net: pvp
 servers:
-  static: 127.0.0.1:25501
-  fluid: 127.0.0.1:25502
-  hardcore: 127.0.0.1:25503
-admins:
-- lluoc
-moderators:
-- lluoc
-disabled_commands:
-- glist
-log_num_lines: 16384
-stats_uuid: 3a030d7d-48db-4f69-ae9f-30a7541cf449
-forced_servers: null
-metrics_enabled: true
+  static:
+    address: localhost:25501
+  fluid:
+    address: localhost:25502
+  hardcore:
+    address: localhost:25503
+sleep_time: 1
+stats: c92f9041-5a8a-41c1-8551-2b0ced90d959
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+tab_list: GLOBAL_PING
+online_mode: true
+timeout: 30000
+groups:
+  md_5:
+  - admin
