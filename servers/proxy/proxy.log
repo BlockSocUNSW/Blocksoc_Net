@@ -188,3 +188,8 @@
 18:17:17 [INFO] /60.241.125.152 has connected
 18:18:15 [INFO] /60.241.125.152 has connected
 11:48:34 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/BungeeCord
+18:13:55 [INFO] /27.32.76.43 has connected
+18:14:11 [INFO] /27.32.76.43 has connected
+18:14:15 [INFO] /27.32.76.43 has connected
+18:14:24 [INFO] /27.32.76.43 [k3h] disconnected with EOFException : null @ java.io.DataInputStream:290
+18:14:24 [INFO] localhost/127.0.0.1 disconnected with Quitting
