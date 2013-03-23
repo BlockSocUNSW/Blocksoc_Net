@@ -196,3 +196,4 @@
 19:44:19 [INFO] /60.241.125.152 has connected
 19:45:13 [INFO] /60.241.125.152 has connected
 05:41:16 [INFO] /78.180.61.23 has connected
+23:31:49 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/BungeeCord
